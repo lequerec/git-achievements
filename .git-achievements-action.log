@@ -756,3 +756,81 @@ rev-parse --is-inside-git-dir
 Date: Mar 20 mar 2012 14:02:20 CET
 rev-parse --is-inside-work-tree
 Date: Mar 20 mar 2012 14:02:20 CET
+achievements -p
+Date: Mar 20 mar 2012 14:02:28 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:02:28 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:02:28 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:02:28 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:02:41 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:02:41 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:02:41 CET
+status 
+Date: Mar 20 mar 2012 14:02:45 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:02:45 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:02:45 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:02:45 CET
+add .git-achievements-action.log .git-achievements.log
+Date: Mar 20 mar 2012 14:03:03 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:03:03 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:03:03 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:03:03 CET
+add git-achievements
+Date: Mar 20 mar 2012 14:03:07 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:03:08 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:03:08 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:03:08 CET
+status 
+Date: Mar 20 mar 2012 14:03:11 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:03:11 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:03:11 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:03:11 CET
+add README git-achievements index.html index.rss style.css test
+Date: Mar 20 mar 2012 14:03:16 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:03:16 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:03:16 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:03:16 CET
+status 
+Date: Mar 20 mar 2012 14:03:18 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:03:18 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:03:18 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:03:18 CET
+add .git-achievements-action.log .git-achievements.log
+Date: Mar 20 mar 2012 14:03:30 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:03:30 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:03:30 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:03:30 CET
+status 
+Date: Mar 20 mar 2012 14:03:33 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:03:33 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:03:33 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:03:33 CET

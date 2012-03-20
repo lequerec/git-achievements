@@ -469,9 +469,10 @@ There are $total Achievements. Some achievements can be leveled up depending on 
         echo "Global achievement.upload not set to true, updates left uncommited"
         return
     fi
-
+    echo "pull repository"
+    git pull
     echo "Adding new achievements and publishing to origin."
-    git add index.html index.rss
+    git add index.html index.rss .git-achievements-action.log .git-achievements.log
     if [ -z "${1}" ] ; then
         message="Publishing updated achievement"
     else
@@ -481,8 +482,8 @@ There are $total Achievements. Some achievements can be leveled up depending on 
     git push origin gh-pages
 }
 
-ACTIONLOGFILE="$HOME/.git-achievements-action.log"
-ACHIEVEMENTSLOGFILE="$HOME/.git-achievements.log"
+ACTIONLOGFILE="$(dirname $0)/.git-achievements-action.log"
+ACHIEVEMENTSLOGFILE="$(dirname $0)/.git-achievements.log"
 
 if [ ! "$1" = "achievements" ] ; then
     git "$@"
