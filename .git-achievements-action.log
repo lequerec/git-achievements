@@ -924,3 +924,167 @@ rev-parse --is-inside-work-tree
 Date: Mar 20 mar 2012 14:05:48 CET
 commit -a
 Date: Mar 20 mar 2012 14:06:58 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:07:03 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:07:03 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:07:03 CET
+--git-dir=.git config --get-regexp alias\..*
+Date: Mar 20 mar 2012 14:07:14 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:07:20 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:07:20 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:07:20 CET
+rebase -i origin/harmonisation-crons
+Date: Mar 20 mar 2012 14:07:40 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:07:40 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:07:40 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:07:40 CET
+fetch
+Date: Mar 20 mar 2012 14:07:56 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:07:56 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:07:56 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:07:56 CET
+--git-dir=.git config --get-regexp alias\..*
+Date: Mar 20 mar 2012 14:08:03 CET
+rebase origin/harmonisation-crons
+Date: Mar 20 mar 2012 14:08:07 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:08:07 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:08:07 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:08:07 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:38:59 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:38:59 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:39:00 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:39:18 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:39:18 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:39:18 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:41:03 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:41:03 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:41:03 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:41:13 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:41:13 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:41:13 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:41:27 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:41:27 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:41:28 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:41:31 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:41:31 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:41:31 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:41:38 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:41:38 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:41:38 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:41:41 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:41:41 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:41:41 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:42:00 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:42:00 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:42:00 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:42:04 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:42:04 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:42:04 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:42:21 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:42:21 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:42:21 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:42:47 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:42:47 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:42:47 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:42:53 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:42:53 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:42:53 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:43:44 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:43:44 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:43:44 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:44:28 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:44:28 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:44:28 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:46:16 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:46:16 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:46:16 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:46:37 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:46:37 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:46:37 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 15:56:08 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 15:56:08 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 15:56:08 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 16:02:59 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 16:02:59 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 16:02:59 CET
+commit -a
+Date: Mar 20 mar 2012 16:03:14 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 16:03:17 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 16:03:17 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 16:03:17 CET
+fetch
+Date: Mar 20 mar 2012 16:03:24 CET
