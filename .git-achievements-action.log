@@ -834,3 +834,71 @@ rev-parse --is-inside-git-dir
 Date: Mar 20 mar 2012 14:03:33 CET
 rev-parse --is-inside-work-tree
 Date: Mar 20 mar 2012 14:03:33 CET
+add .git-achievements-action.log .git-achievements.log
+Date: Mar 20 mar 2012 14:03:35 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:03:35 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:03:35 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:03:35 CET
+add index.html index.rss
+Date: Mar 20 mar 2012 14:03:42 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:03:42 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:03:42 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:03:42 CET
+commit -m [FIX]log in repository
+Date: Mar 20 mar 2012 14:04:02 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:04:02 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:04:02 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:04:02 CET
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Mar 20 mar 2012 14:04:06 CET
+push origin gh-pages
+Date: Mar 20 mar 2012 14:04:12 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:04:12 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:04:12 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:04:12 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:04:14 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:04:14 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:04:14 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:04:54 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:04:54 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:04:54 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:04:55 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:04:55 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:04:55 CET
+status 
+Date: Mar 20 mar 2012 14:04:59 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:04:59 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:04:59 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:04:59 CET
+achievements -l
+Date: Mar 20 mar 2012 14:05:12 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:05:12 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:05:12 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:05:12 CET
