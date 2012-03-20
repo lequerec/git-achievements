@@ -902,3 +902,25 @@ rev-parse --is-inside-git-dir
 Date: Mar 20 mar 2012 14:05:12 CET
 rev-parse --is-inside-work-tree
 Date: Mar 20 mar 2012 14:05:12 CET
+achievements -p
+Date: Mar 20 mar 2012 14:05:21 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:05:21 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:05:21 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:05:21 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:05:28 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:05:28 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:05:28 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 14:05:48 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 14:05:48 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 14:05:48 CET
+commit -a
+Date: Mar 20 mar 2012 14:06:58 CET
