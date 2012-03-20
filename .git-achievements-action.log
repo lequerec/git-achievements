@@ -1238,3 +1238,13 @@ Date: Mar 20 mar 2012 17:16:19 CET
 Date: Mar 20 mar 2012 17:16:26 CET
 rebase -i origin/harmonisation-crons
 Date: Mar 20 mar 2012 17:17:22 CET
+symbolic-ref HEAD
+Date: Mar 20 mar 2012 17:17:29 CET
+rev-parse --is-inside-git-dir
+Date: Mar 20 mar 2012 17:17:29 CET
+rev-parse --is-inside-work-tree
+Date: Mar 20 mar 2012 17:17:29 CET
+--git-dir=/Users/killy/vagrant/intra/bo-my-erp/.git config --get-regexp remote\..*\.url
+Date: Mar 20 mar 2012 17:17:50 CET
+push origin harmonisation-crons
+Date: Mar 20 mar 2012 17:17:53 CET
