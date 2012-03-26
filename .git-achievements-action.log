@@ -1516,3 +1516,69 @@ rev-parse --is-inside-work-tree
 Date: Lun 26 mar 2012 11:39:21 CEST
 add Vagrantfile
 Date: Lun 26 mar 2012 11:39:25 CEST
+symbolic-ref HEAD
+Date: Lun 26 mar 2012 11:39:33 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 26 mar 2012 11:39:33 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 26 mar 2012 11:39:33 CEST
+commit -a
+Date: Lun 26 mar 2012 11:40:04 CEST
+symbolic-ref HEAD
+Date: Lun 26 mar 2012 11:40:04 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 26 mar 2012 11:40:04 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 26 mar 2012 11:40:04 CEST
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Lun 26 mar 2012 11:40:10 CEST
+push origin master
+Date: Lun 26 mar 2012 11:54:37 CEST
+symbolic-ref HEAD
+Date: Lun 26 mar 2012 11:54:37 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 26 mar 2012 11:54:37 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 26 mar 2012 11:54:37 CEST
+fetch
+Date: Lun 26 mar 2012 12:00:37 CEST
+symbolic-ref HEAD
+Date: Lun 26 mar 2012 12:00:37 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 26 mar 2012 12:00:37 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 26 mar 2012 12:00:37 CEST
+symbolic-ref HEAD
+Date: Lun 26 mar 2012 12:03:14 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 26 mar 2012 12:03:14 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 26 mar 2012 12:03:14 CEST
+status 
+Date: Lun 26 mar 2012 12:03:17 CEST
+symbolic-ref HEAD
+Date: Lun 26 mar 2012 12:03:17 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 26 mar 2012 12:03:17 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 26 mar 2012 12:03:17 CEST
+fsck
+Date: Lun 26 mar 2012 12:04:50 CEST
+symbolic-ref HEAD
+Date: Lun 26 mar 2012 12:04:50 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 26 mar 2012 12:04:50 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 26 mar 2012 12:04:50 CEST
+fsck
+Date: Lun 26 mar 2012 12:05:19 CEST
+symbolic-ref HEAD
+Date: Lun 26 mar 2012 12:05:19 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 26 mar 2012 12:05:19 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 26 mar 2012 12:05:19 CEST
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Lun 26 mar 2012 12:05:38 CEST
+push origin master --force
+Date: Lun 26 mar 2012 12:05:46 CEST
