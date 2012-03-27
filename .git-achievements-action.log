@@ -2424,3 +2424,17 @@ diff-index --cached --quiet HEAD --
 Date: Mar 27 mar 2012 15:13:23 CEST
 commit -a
 Date: Mar 27 mar 2012 15:13:39 CEST
+symbolic-ref HEAD
+Date: Mar 27 mar 2012 15:13:45 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 27 mar 2012 15:13:45 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 27 mar 2012 15:13:45 CEST
+diff --no-ext-diff --quiet --exit-code
+Date: Mar 27 mar 2012 15:13:45 CEST
+rev-parse --quiet --verify HEAD
+Date: Mar 27 mar 2012 15:13:45 CEST
+diff-index --cached --quiet HEAD --
+Date: Mar 27 mar 2012 15:13:45 CEST
+fetch
+Date: Mar 27 mar 2012 15:22:03 CEST
