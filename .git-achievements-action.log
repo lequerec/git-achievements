@@ -2096,3 +2096,39 @@ rev-parse --is-inside-work-tree
 Date: Mar 27 mar 2012 10:16:53 CEST
 merge master
 Date: Mar 27 mar 2012 10:17:02 CEST
+symbolic-ref HEAD
+Date: Mar 27 mar 2012 10:17:07 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 27 mar 2012 10:17:07 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 27 mar 2012 10:17:07 CEST
+symbolic-ref HEAD
+Date: Mar 27 mar 2012 10:17:25 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 27 mar 2012 10:17:25 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 27 mar 2012 10:17:25 CEST
+merge master
+Date: Mar 27 mar 2012 10:17:26 CEST
+symbolic-ref HEAD
+Date: Mar 27 mar 2012 10:17:26 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 27 mar 2012 10:17:26 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 27 mar 2012 10:17:26 CEST
+checkout -b pre-moulinette
+Date: Mar 27 mar 2012 10:17:34 CEST
+symbolic-ref HEAD
+Date: Mar 27 mar 2012 10:17:34 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 27 mar 2012 10:17:34 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 27 mar 2012 10:17:34 CEST
+symbolic-ref HEAD
+Date: Mar 27 mar 2012 10:17:42 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 27 mar 2012 10:17:42 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 27 mar 2012 10:17:43 CEST
+stash pop
+Date: Mar 27 mar 2012 10:17:45 CEST
