@@ -3336,3 +3336,33 @@ rev-parse --is-inside-work-tree
 Date: Mer 28 mar 2012 15:22:43 CEST
 checkout -b develop
 Date: Mer 28 mar 2012 15:22:45 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:22:51 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:22:51 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:22:51 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:22:55 CEST
+checkout pre-moulinette
+Date: Mer 28 mar 2012 15:22:56 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:22:56 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:22:56 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:22:56 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:23:08 CEST
+checkout develop
+Date: Mer 28 mar 2012 15:23:09 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:23:09 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:23:09 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:23:09 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Mer 28 mar 2012 15:23:11 CEST
+rebase --onto 300289ce0 pre-moulinette
+Date: Mer 28 mar 2012 15:23:33 CEST
