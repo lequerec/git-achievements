@@ -2858,3 +2858,481 @@ rev-parse --is-inside-work-tree
 Date: Mer 28 mar 2012 10:06:28 CEST
 checkout -b pre-moulinette
 Date: Mer 28 mar 2012 10:06:35 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 10:06:43 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 10:06:43 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 10:06:43 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 10:15:26 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 10:15:26 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 10:15:26 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 10:18:02 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 10:18:03 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 10:18:03 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 10:18:07 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 10:18:07 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 10:18:07 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 10:36:20 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 10:36:20 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 10:36:20 CEST
+stash
+Date: Mer 28 mar 2012 10:36:24 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 10:36:24 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 10:36:24 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 10:36:24 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 10:36:26 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 10:36:26 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 10:36:26 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 10:37:28 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 10:37:28 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 10:37:28 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 11:18:38 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 11:18:38 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 11:18:38 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 11:24:32 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 11:24:32 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 11:24:32 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 11:29:52 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 11:29:52 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 11:29:53 CEST
+stash pop
+Date: Mer 28 mar 2012 11:33:10 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 11:33:10 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 11:33:11 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 11:33:11 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 11:34:48 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 11:34:48 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 11:34:48 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 11:38:08 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 11:38:08 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 11:38:08 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 11:38:33 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 11:38:33 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 11:38:33 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 11:38:59 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 11:38:59 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 11:38:59 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 11:39:53 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 11:39:53 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 11:39:53 CEST
+status 
+Date: Mer 28 mar 2012 11:54:46 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 11:54:46 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 11:54:46 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 11:54:46 CEST
+commit -a
+Date: Mer 28 mar 2012 13:57:39 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 13:57:41 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 13:57:41 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 13:57:41 CEST
+fetch
+Date: Mer 28 mar 2012 13:57:44 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 13:57:44 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 13:57:44 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 13:57:44 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 13:58:01 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 13:58:01 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 13:58:02 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 13:58:05 CEST
+checkout develop
+Date: Mer 28 mar 2012 13:58:06 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 13:58:06 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 13:58:06 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 13:58:06 CEST
+help -a
+Date: Mer 28 mar 2012 13:58:13 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Mer 28 mar 2012 13:58:13 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 13:58:18 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 13:58:18 CEST
+status 
+Date: Mer 28 mar 2012 13:58:24 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 13:58:24 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 13:58:24 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 13:59:56 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 13:59:56 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:15:35 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:15:35 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:16:53 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:16:53 CEST
+status 
+Date: Mer 28 mar 2012 14:17:11 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:17:11 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:17:11 CEST
+status 
+Date: Mer 28 mar 2012 14:18:06 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:07 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:07 CEST
+status 
+Date: Mer 28 mar 2012 14:18:10 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:10 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:10 CEST
+status 
+Date: Mer 28 mar 2012 14:18:22 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:22 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:23 CEST
+status 
+Date: Mer 28 mar 2012 14:18:26 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:26 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:26 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Mer 28 mar 2012 14:18:32 CEST
+rebase --abort
+Date: Mer 28 mar 2012 14:18:34 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 14:18:34 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:34 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:34 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 14:18:37 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 14:18:38 CEST
+checkout origin/develop
+Date: Mer 28 mar 2012 14:18:38 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:38 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:38 CEST
+--git-dir=.git config --get alias.br
+Date: Mer 28 mar 2012 14:18:43 CEST
+branch -D develop
+Date: Mer 28 mar 2012 14:18:44 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:44 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:44 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 14:18:46 CEST
+checkout -b develop
+Date: Mer 28 mar 2012 14:18:47 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 14:18:47 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:47 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:47 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 14:18:50 CEST
+checkout master
+Date: Mer 28 mar 2012 14:18:50 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 14:18:50 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:50 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:50 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 14:18:54 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 14:18:56 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:56 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:56 CEST
+checkout origin/master
+Date: Mer 28 mar 2012 14:18:59 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:18:59 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:18:59 CEST
+--git-dir=.git config --get alias.br
+Date: Mer 28 mar 2012 14:19:02 CEST
+branch -D master
+Date: Mer 28 mar 2012 14:19:03 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:19:03 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:19:03 CEST
+checkout -b master
+Date: Mer 28 mar 2012 14:19:07 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 14:19:08 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:19:08 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:19:08 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 14:19:36 CEST
+checkout pre-moulinette
+Date: Mer 28 mar 2012 14:19:36 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 14:19:36 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:19:36 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:19:36 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Mer 28 mar 2012 14:19:37 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:19:39 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:19:39 CEST
+status 
+Date: Mer 28 mar 2012 14:19:42 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:19:42 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:19:42 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:19:51 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:19:51 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:23:31 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:23:31 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:23:51 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:23:51 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:23:52 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:23:52 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:23:55 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:23:55 CEST
+status 
+Date: Mer 28 mar 2012 14:24:07 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:24:07 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:24:07 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:24:14 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:24:14 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Mer 28 mar 2012 14:25:24 CEST
+rebase --abort
+Date: Mer 28 mar 2012 14:25:26 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 14:25:26 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:25:27 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:25:27 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 14:25:30 CEST
+checkout develop
+Date: Mer 28 mar 2012 14:25:31 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 14:25:31 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:25:31 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:25:31 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 14:25:33 CEST
+checkout -b groupe
+Date: Mer 28 mar 2012 14:25:40 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 14:25:40 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 14:25:40 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 14:25:40 CEST
+fetch
+Date: Mer 28 mar 2012 15:15:22 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:15:22 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:15:22 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:15:22 CEST
+status 
+Date: Mer 28 mar 2012 15:15:26 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:15:26 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:15:26 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:15:26 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:15:33 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:15:34 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:15:36 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:15:36 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:15:38 CEST
+checkout HEAD application/models/groups.php
+Date: Mer 28 mar 2012 15:15:38 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:15:38 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:15:38 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:15:38 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:15:40 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:15:40 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:15:40 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:15:41 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:15:41 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:15:41 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:15:55 CEST
+checkout pre-moulinette
+Date: Mer 28 mar 2012 15:15:56 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:15:56 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:15:56 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:15:56 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:15:56 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:15:56 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:15:57 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:17:09 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:17:09 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:17:09 CEST
+help rebase
+Date: Mer 28 mar 2012 15:18:09 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:18:09 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:18:09 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:18:09 CEST
+rebase --onto 300289ce0 pre-moulinette develop
+Date: Mer 28 mar 2012 15:21:47 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:21:47 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:21:47 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:21:47 CEST
+symbolic-ref HEAD
+Date: Mer 28 mar 2012 15:22:28 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:22:28 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:22:28 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:22:35 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:22:36 CEST
+checkout origin/develop
+Date: Mer 28 mar 2012 15:22:36 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:22:36 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:22:36 CEST
+--git-dir=.git config --get alias.br
+Date: Mer 28 mar 2012 15:22:39 CEST
+branch -D develop
+Date: Mer 28 mar 2012 15:22:39 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:22:39 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:22:39 CEST
+--git-dir=.git config --get alias.co
+Date: Mer 28 mar 2012 15:22:43 CEST
+rev-parse --is-inside-git-dir
+Date: Mer 28 mar 2012 15:22:43 CEST
+rev-parse --is-inside-work-tree
+Date: Mer 28 mar 2012 15:22:43 CEST
+checkout -b develop
+Date: Mer 28 mar 2012 15:22:45 CEST
