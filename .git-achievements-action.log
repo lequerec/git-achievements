@@ -3786,3 +3786,981 @@ rev-parse --is-inside-work-tree
 Date: Jeu 29 mar 2012 09:54:15 CEST
 commit --amend
 Date: Jeu 29 mar 2012 09:54:54 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 09:55:01 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 09:55:01 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 09:55:01 CEST
+status 
+Date: Jeu 29 mar 2012 09:55:12 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 09:55:12 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 09:55:12 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 09:55:12 CEST
+fetch
+Date: Jeu 29 mar 2012 09:55:21 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 09:55:22 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 09:55:22 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 09:55:22 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:03:01 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:03:01 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:03:01 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:13:28 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:13:28 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:13:28 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:13:32 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:13:32 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:13:32 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:16:06 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:16:06 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:16:06 CEST
+--git-dir=.git config --get alias.co
+Date: Jeu 29 mar 2012 10:16:21 CEST
+checkout master
+Date: Jeu 29 mar 2012 10:16:22 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:16:23 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:16:23 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:16:23 CEST
+help -a
+Date: Jeu 29 mar 2012 10:16:24 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Jeu 29 mar 2012 10:16:24 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Jeu 29 mar 2012 10:16:25 CEST
+rebase origin/master
+Date: Jeu 29 mar 2012 10:16:29 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:16:29 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:16:29 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:16:29 CEST
+--git-dir=.git config --get alias.co
+Date: Jeu 29 mar 2012 10:16:30 CEST
+checkout pre-moulinette
+Date: Jeu 29 mar 2012 10:16:31 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:16:31 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:16:31 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:16:31 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Jeu 29 mar 2012 10:16:33 CEST
+rebase origin/master
+Date: Jeu 29 mar 2012 10:16:35 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:16:36 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:16:36 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:16:36 CEST
+status 
+Date: Jeu 29 mar 2012 10:16:47 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:16:47 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:16:47 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:16:47 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:16:58 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:16:58 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:16:58 CEST
+fetch
+Date: Jeu 29 mar 2012 10:17:00 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:17:01 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:17:01 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:17:01 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Jeu 29 mar 2012 10:19:57 CEST
+rebase origin/master
+Date: Jeu 29 mar 2012 10:19:59 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:19:59 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:19:59 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:19:59 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:20:06 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:20:06 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:20:06 CEST
+--git-dir=.git config --get alias.co
+Date: Jeu 29 mar 2012 10:20:09 CEST
+checkout master
+Date: Jeu 29 mar 2012 10:20:09 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:20:09 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:20:09 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:20:09 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Jeu 29 mar 2012 10:20:11 CEST
+rebase origin/master
+Date: Jeu 29 mar 2012 10:20:12 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:20:12 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:20:13 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:20:13 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:20:14 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:20:14 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:20:14 CEST
+status 
+Date: Jeu 29 mar 2012 10:20:17 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:20:17 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:20:17 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:20:17 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:21:24 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:21:24 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:21:24 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:21:25 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:21:25 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:21:25 CEST
+fetch
+Date: Jeu 29 mar 2012 10:21:29 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:21:29 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:21:29 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:21:29 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Jeu 29 mar 2012 10:21:31 CEST
+rebase origin/master
+Date: Jeu 29 mar 2012 10:21:34 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:21:34 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:21:34 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:21:34 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:21:36 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:21:36 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:21:36 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:21:37 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:21:37 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:21:37 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:21:39 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:21:39 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:21:39 CEST
+status 
+Date: Jeu 29 mar 2012 10:25:07 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:25:07 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:25:07 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:25:07 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:35:08 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:35:08 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:35:08 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:35:12 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:35:12 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:35:12 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:44:07 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:44:07 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:44:07 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:44:19 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:44:19 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:44:19 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:44:20 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:44:20 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:44:20 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 10:59:05 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 10:59:05 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 10:59:05 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:01:04 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:01:04 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:01:04 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:05:00 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:05:00 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:05:00 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:09:36 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:09:36 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:09:36 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:09:38 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:09:38 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:09:38 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:09:43 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:09:43 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:09:43 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:11:26 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:11:26 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:11:26 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:11:50 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:11:50 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:11:51 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:12:13 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:12:13 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:12:13 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:14:15 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:14:15 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:14:15 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:20:35 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:20:35 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:20:35 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:20:43 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:20:44 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:20:44 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:20:47 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:20:47 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:20:47 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:21:07 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:21:07 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:21:07 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:21:31 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:21:31 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:21:31 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:21:49 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:21:49 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:21:49 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:30:34 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:30:34 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:30:34 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:30:49 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:30:49 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:30:49 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:31:02 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:31:02 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:31:02 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:32:45 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:32:45 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:32:45 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:32:50 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:32:50 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:32:50 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:33:04 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:33:04 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:33:04 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:33:06 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:33:06 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:33:06 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:33:09 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:33:09 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:33:09 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:33:16 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:33:16 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:33:16 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:33:46 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:33:46 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:33:46 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 11:33:52 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 11:33:52 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 11:33:52 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 13:39:43 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 13:39:43 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 13:39:43 CEST
+status 
+Date: Jeu 29 mar 2012 14:10:09 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:10:09 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:10:09 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:10:09 CEST
+status 
+Date: Jeu 29 mar 2012 14:10:24 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:10:24 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:10:24 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:10:24 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:10:34 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:10:34 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:10:34 CEST
+status 
+Date: Jeu 29 mar 2012 14:11:31 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:11:31 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:11:31 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:11:31 CEST
+add application/project/controllers/QuestController.php
+Date: Jeu 29 mar 2012 14:11:40 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:11:40 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:11:40 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:11:40 CEST
+commit --amend
+Date: Jeu 29 mar 2012 14:12:44 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:12:44 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:12:44 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:12:44 CEST
+--git-dir=.git config --get alias.co
+Date: Jeu 29 mar 2012 14:13:04 CEST
+checkout develop
+Date: Jeu 29 mar 2012 14:13:04 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:13:04 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:13:04 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:13:04 CEST
+fetch
+Date: Jeu 29 mar 2012 14:13:07 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:13:07 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:13:07 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:13:07 CEST
+--git-dir=.git config --get alias.co
+Date: Jeu 29 mar 2012 14:13:12 CEST
+checkout develop
+Date: Jeu 29 mar 2012 14:13:12 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:13:13 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:13:13 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:13:13 CEST
+help -a
+Date: Jeu 29 mar 2012 14:13:14 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Jeu 29 mar 2012 14:13:14 CEST
+rebase origin/develop
+Date: Jeu 29 mar 2012 14:13:16 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:13:16 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:13:16 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:13:16 CEST
+--git-dir=.git config --get alias.co
+Date: Jeu 29 mar 2012 14:13:21 CEST
+checkout master
+Date: Jeu 29 mar 2012 14:13:21 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:13:21 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:13:21 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:13:21 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Jeu 29 mar 2012 14:13:23 CEST
+rebase origin/master
+Date: Jeu 29 mar 2012 14:13:25 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:13:25 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:13:25 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:13:25 CEST
+--git-dir=.git config --get alias.co
+Date: Jeu 29 mar 2012 14:13:28 CEST
+checkout develop
+Date: Jeu 29 mar 2012 14:13:28 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:13:28 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:13:28 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:13:28 CEST
+--git-dir=.git config --get alias.co
+Date: Jeu 29 mar 2012 14:13:32 CEST
+checkout pre-moulinette
+Date: Jeu 29 mar 2012 14:13:32 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:13:32 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:13:32 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:13:32 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Jeu 29 mar 2012 14:13:35 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:13:37 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:13:37 CEST
+status 
+Date: Jeu 29 mar 2012 14:14:33 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:14:33 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:14:33 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:14:44 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:14:44 CEST
+status 
+Date: Jeu 29 mar 2012 14:15:33 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:15:33 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:15:33 CEST
+add application/project/views/scripts/partials/stageValid.phtml
+Date: Jeu 29 mar 2012 14:15:37 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:15:37 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:15:37 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Jeu 29 mar 2012 14:15:41 CEST
+rebase --continue
+Date: Jeu 29 mar 2012 14:15:44 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:15:44 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:15:44 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:15:44 CEST
+status 
+Date: Jeu 29 mar 2012 14:15:49 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:15:49 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:15:49 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:15:49 CEST
+--git-dir=.git config --get alias.co
+Date: Jeu 29 mar 2012 14:15:56 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:15:56 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:15:56 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:15:56 CEST
+--git-dir=.git config --get alias.co
+Date: Jeu 29 mar 2012 14:15:58 CEST
+checkout develop
+Date: Jeu 29 mar 2012 14:15:59 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:15:59 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:15:59 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:15:59 CEST
+branch 
+Date: Jeu 29 mar 2012 14:16:44 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:16:44 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:16:44 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:16:44 CEST
+--git-dir=.git config --get alias.br
+Date: Jeu 29 mar 2012 14:16:49 CEST
+branch -d groupe
+Date: Jeu 29 mar 2012 14:16:50 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:16:50 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:16:50 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:16:50 CEST
+status 
+Date: Jeu 29 mar 2012 14:20:29 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:20:29 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:20:29 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:20:29 CEST
+checkout -b correcto_etron
+Date: Jeu 29 mar 2012 14:26:07 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:26:07 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:26:07 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:26:08 CEST
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Jeu 29 mar 2012 14:26:11 CEST
+push origin correcto_etron
+Date: Jeu 29 mar 2012 14:26:14 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:26:14 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:26:14 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:26:14 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 14:26:44 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 14:26:44 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 14:26:44 CEST
+symbolic-ref HEAD
+Date: Jeu 29 mar 2012 15:41:12 CEST
+rev-parse --is-inside-git-dir
+Date: Jeu 29 mar 2012 15:41:12 CEST
+rev-parse --is-inside-work-tree
+Date: Jeu 29 mar 2012 15:41:12 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:28:25 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:28:25 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:28:26 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:28:26 CEST
+status 
+Date: Ven 30 mar 2012 16:28:32 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:28:32 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:28:32 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:28:34 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:28:34 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 30 mar 2012 16:29:03 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 30 mar 2012 16:29:05 CEST
+checkout origin/master
+Date: Ven 30 mar 2012 16:29:05 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:29:05 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:29:06 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:29:18 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:29:18 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:29:18 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:29:19 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:29:19 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:29:19 CEST
+status 
+Date: Ven 30 mar 2012 16:29:22 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:29:22 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:29:22 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:29:22 CEST
+commit -a
+Date: Ven 30 mar 2012 16:29:50 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:29:50 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:29:50 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:29:50 CEST
+checkout -b test
+Date: Ven 30 mar 2012 16:29:57 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:29:57 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:29:57 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:29:57 CEST
+status 
+Date: Ven 30 mar 2012 16:29:59 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:29:59 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:29:59 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:29:59 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:30:07 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:30:08 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:30:08 CEST
+status 
+Date: Ven 30 mar 2012 16:30:10 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:30:10 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:30:10 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:30:10 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:30:14 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:30:14 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:30:14 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:30:15 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:30:15 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:30:15 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:30:17 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:30:17 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:30:17 CEST
+status 
+Date: Ven 30 mar 2012 16:30:19 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:30:19 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:30:19 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:30:20 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:30:22 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:30:22 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:30:22 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:30:23 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:30:23 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:30:23 CEST
+symbolic-ref HEAD
+Date: Ven 30 mar 2012 16:30:28 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 30 mar 2012 16:30:28 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 30 mar 2012 16:30:28 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:08:49 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:08:49 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:08:50 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:09:11 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:09:11 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:09:11 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:11:20 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:11:20 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:11:20 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:11:44 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:11:44 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:11:44 CEST
+fetch
+Date: Lun  2 avr 2012 10:17:04 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:17:05 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:17:05 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:17:05 CEST
+commit -a
+Date: Lun  2 avr 2012 10:18:11 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:18:11 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:18:11 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:18:11 CEST
+--git-dir=.git config --get alias.co
+Date: Lun  2 avr 2012 10:18:14 CEST
+checkout develop
+Date: Lun  2 avr 2012 10:18:14 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:18:14 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:18:14 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:18:14 CEST
+help -a
+Date: Lun  2 avr 2012 10:18:15 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun  2 avr 2012 10:18:15 CEST
+rebase origin/develop
+Date: Lun  2 avr 2012 10:18:19 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:18:19 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:18:19 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:18:19 CEST
+--git-dir=.git config --get alias.co
+Date: Lun  2 avr 2012 10:18:21 CEST
+checkout master
+Date: Lun  2 avr 2012 10:18:21 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:18:22 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:18:22 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:18:22 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun  2 avr 2012 10:18:23 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun  2 avr 2012 10:18:23 CEST
+rebase origin/master
+Date: Lun  2 avr 2012 10:18:26 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:18:26 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:18:26 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:18:26 CEST
+--git-dir=.git config --get alias.co
+Date: Lun  2 avr 2012 10:19:24 CEST
+--git-dir=.git config --get alias.co
+Date: Lun  2 avr 2012 10:19:25 CEST
+--git-dir=.git config --get alias.co
+Date: Lun  2 avr 2012 10:19:25 CEST
+checkout correcto_etron
+Date: Lun  2 avr 2012 10:19:26 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:19:26 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:19:27 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:19:27 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun  2 avr 2012 10:19:40 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun  2 avr 2012 10:19:42 CEST
+rebase origin/develop
+Date: Lun  2 avr 2012 10:19:47 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:19:47 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:19:47 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:19:47 CEST
+--git-dir=.git config --get alias.co
+Date: Lun  2 avr 2012 10:20:00 CEST
+checkout pre-moulinette
+Date: Lun  2 avr 2012 10:20:00 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:20:00 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:20:00 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:20:00 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun  2 avr 2012 10:20:02 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:20:04 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:20:04 CEST
+status 
+Date: Lun  2 avr 2012 10:20:09 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:20:09 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:20:09 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:20:16 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:20:16 CEST
+add application/project/controllers/QuestController.php
+Date: Lun  2 avr 2012 10:26:13 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:26:14 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:26:14 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun  2 avr 2012 10:26:17 CEST
+rebase --continue
+Date: Lun  2 avr 2012 10:26:21 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:26:21 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:26:21 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:26:21 CEST
+status 
+Date: Lun  2 avr 2012 10:27:00 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:27:00 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:27:00 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:27:00 CEST
+checkout application/project/controllers/QuestController.php
+Date: Lun  2 avr 2012 10:27:06 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:27:06 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:27:06 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:27:06 CEST
+status 
+Date: Lun  2 avr 2012 10:51:19 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:51:19 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:51:19 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:51:19 CEST
+add application/project/views/scripts/partials/stageValid.phtml
+Date: Lun  2 avr 2012 10:51:26 CEST
+symbolic-ref HEAD
+Date: Lun  2 avr 2012 10:51:26 CEST
+rev-parse --is-inside-git-dir
+Date: Lun  2 avr 2012 10:51:26 CEST
+rev-parse --is-inside-work-tree
+Date: Lun  2 avr 2012 10:51:26 CEST
+commit --amend
+Date: Lun  2 avr 2012 10:51:31 CEST
