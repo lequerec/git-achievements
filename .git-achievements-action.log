@@ -5494,3 +5494,49 @@ rev-parse --is-inside-work-tree
 Date: Mar  3 avr 2012 15:52:57 CEST
 merge --no-ff pre-moulinette
 Date: Mar  3 avr 2012 15:53:05 CEST
+symbolic-ref HEAD
+Date: Mar  3 avr 2012 15:53:10 CEST
+rev-parse --is-inside-git-dir
+Date: Mar  3 avr 2012 15:53:10 CEST
+rev-parse --is-inside-work-tree
+Date: Mar  3 avr 2012 15:53:10 CEST
+--git-dir=.git config --get alias.co
+Date: Mar  3 avr 2012 15:53:11 CEST
+checkout master
+Date: Mar  3 avr 2012 15:53:11 CEST
+symbolic-ref HEAD
+Date: Mar  3 avr 2012 15:53:11 CEST
+rev-parse --is-inside-git-dir
+Date: Mar  3 avr 2012 15:53:11 CEST
+rev-parse --is-inside-work-tree
+Date: Mar  3 avr 2012 15:53:11 CEST
+merge --no-ff develop
+Date: Mar  3 avr 2012 15:53:22 CEST
+symbolic-ref HEAD
+Date: Mar  3 avr 2012 15:53:22 CEST
+rev-parse --is-inside-git-dir
+Date: Mar  3 avr 2012 15:53:22 CEST
+rev-parse --is-inside-work-tree
+Date: Mar  3 avr 2012 15:53:22 CEST
+--git-dir=.git config --get alias.co
+Date: Mar  3 avr 2012 15:53:24 CEST
+checkout develop
+Date: Mar  3 avr 2012 15:53:25 CEST
+symbolic-ref HEAD
+Date: Mar  3 avr 2012 15:53:25 CEST
+rev-parse --is-inside-git-dir
+Date: Mar  3 avr 2012 15:53:25 CEST
+rev-parse --is-inside-work-tree
+Date: Mar  3 avr 2012 15:53:25 CEST
+merge master
+Date: Mar  3 avr 2012 15:53:27 CEST
+symbolic-ref HEAD
+Date: Mar  3 avr 2012 15:53:28 CEST
+rev-parse --is-inside-git-dir
+Date: Mar  3 avr 2012 15:53:28 CEST
+rev-parse --is-inside-work-tree
+Date: Mar  3 avr 2012 15:53:28 CEST
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Mar  3 avr 2012 15:53:34 CEST
+push origin develop
+Date: Mar  3 avr 2012 15:53:42 CEST
