@@ -6790,3 +6790,79 @@ rev-parse --is-inside-work-tree
 Date: Mer  4 avr 2012 16:01:51 CEST
 stash drop
 Date: Mer  4 avr 2012 16:01:54 CEST
+symbolic-ref HEAD
+Date: Mer  4 avr 2012 16:01:58 CEST
+rev-parse --is-inside-git-dir
+Date: Mer  4 avr 2012 16:01:58 CEST
+rev-parse --is-inside-work-tree
+Date: Mer  4 avr 2012 16:01:58 CEST
+symbolic-ref HEAD
+Date: Mer  4 avr 2012 16:22:31 CEST
+rev-parse --is-inside-git-dir
+Date: Mer  4 avr 2012 16:22:31 CEST
+rev-parse --is-inside-work-tree
+Date: Mer  4 avr 2012 16:22:31 CEST
+symbolic-ref HEAD
+Date: Mer  4 avr 2012 16:22:33 CEST
+rev-parse --is-inside-git-dir
+Date: Mer  4 avr 2012 16:22:33 CEST
+rev-parse --is-inside-work-tree
+Date: Mer  4 avr 2012 16:22:33 CEST
+fetch
+Date: Mer  4 avr 2012 16:22:37 CEST
+symbolic-ref HEAD
+Date: Mer  4 avr 2012 16:22:37 CEST
+rev-parse --is-inside-git-dir
+Date: Mer  4 avr 2012 16:22:37 CEST
+rev-parse --is-inside-work-tree
+Date: Mer  4 avr 2012 16:22:37 CEST
+symbolic-ref HEAD
+Date: Mer  4 avr 2012 16:22:42 CEST
+rev-parse --is-inside-git-dir
+Date: Mer  4 avr 2012 16:22:42 CEST
+rev-parse --is-inside-work-tree
+Date: Mer  4 avr 2012 16:22:42 CEST
+--git-dir=.git config --get alias.co
+Date: Mer  4 avr 2012 16:22:58 CEST
+checkout develop
+Date: Mer  4 avr 2012 16:22:59 CEST
+symbolic-ref HEAD
+Date: Mer  4 avr 2012 16:22:59 CEST
+rev-parse --is-inside-git-dir
+Date: Mer  4 avr 2012 16:22:59 CEST
+rev-parse --is-inside-work-tree
+Date: Mer  4 avr 2012 16:22:59 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Mer  4 avr 2012 16:23:03 CEST
+rebase origin/develop
+Date: Mer  4 avr 2012 16:23:07 CEST
+symbolic-ref HEAD
+Date: Mer  4 avr 2012 16:23:07 CEST
+rev-parse --is-inside-git-dir
+Date: Mer  4 avr 2012 16:23:07 CEST
+rev-parse --is-inside-work-tree
+Date: Mer  4 avr 2012 16:23:07 CEST
+--git-dir=.git config --get alias.co
+Date: Mer  4 avr 2012 16:23:08 CEST
+checkout master
+Date: Mer  4 avr 2012 16:23:09 CEST
+symbolic-ref HEAD
+Date: Mer  4 avr 2012 16:23:09 CEST
+rev-parse --is-inside-git-dir
+Date: Mer  4 avr 2012 16:23:09 CEST
+rev-parse --is-inside-work-tree
+Date: Mer  4 avr 2012 16:23:09 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Mer  4 avr 2012 16:23:10 CEST
+rebase origin/master
+Date: Mer  4 avr 2012 16:23:11 CEST
+symbolic-ref HEAD
+Date: Mer  4 avr 2012 16:23:11 CEST
+rev-parse --is-inside-git-dir
+Date: Mer  4 avr 2012 16:23:11 CEST
+rev-parse --is-inside-work-tree
+Date: Mer  4 avr 2012 16:23:11 CEST
+--git-dir=.git config --get alias.co
+Date: Mer  4 avr 2012 16:23:14 CEST
+merge --no-ff master
+Date: Mer  4 avr 2012 16:23:27 CEST
