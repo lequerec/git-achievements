@@ -9340,3 +9340,283 @@ rev-parse --is-inside-work-tree
 Date: Ven  6 avr 2012 12:09:03 CEST
 commit -a
 Date: Ven  6 avr 2012 12:09:14 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:09:24 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:09:24 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:09:24 CEST
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Ven  6 avr 2012 12:09:25 CEST
+push origin master
+Date: Ven  6 avr 2012 12:09:28 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:09:28 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:09:28 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:09:28 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:10:44 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:10:44 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:10:44 CEST
+status 
+Date: Ven  6 avr 2012 12:12:07 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:12:07 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:12:07 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:12:07 CEST
+commit --amend
+Date: Ven  6 avr 2012 12:12:27 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:12:28 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:12:28 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:12:28 CEST
+status 
+Date: Ven  6 avr 2012 12:12:32 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:12:32 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:12:32 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:12:32 CEST
+add application/models/absence.php
+Date: Ven  6 avr 2012 12:12:44 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:12:44 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:12:44 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:12:44 CEST
+commit --amend
+Date: Ven  6 avr 2012 12:12:48 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:12:48 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:12:48 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:12:48 CEST
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Ven  6 avr 2012 12:12:52 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:12:55 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:12:55 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:12:55 CEST
+push origin master --force
+Date: Ven  6 avr 2012 12:12:59 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:12:59 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:12:59 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:12:59 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 12:13:34 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 12:13:34 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 12:13:34 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 14:51:04 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 14:51:05 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 14:51:05 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 15:03:57 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 15:03:57 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 15:03:57 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 15:04:05 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 15:04:05 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 15:04:05 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 15:04:13 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 15:04:13 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 15:04:13 CEST
+status 
+Date: Ven  6 avr 2012 17:05:17 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 17:05:17 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 17:05:17 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 17:05:17 CEST
+add application/models/absence.php
+Date: Ven  6 avr 2012 17:05:28 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 17:05:28 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 17:05:28 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 17:05:29 CEST
+commit 
+Date: Ven  6 avr 2012 17:06:04 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 17:06:04 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 17:06:04 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 17:06:04 CEST
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Ven  6 avr 2012 17:06:12 CEST
+push origin master
+Date: Ven  6 avr 2012 17:06:16 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 17:06:16 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 17:06:16 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 17:06:16 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 17:07:06 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 17:07:06 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 17:07:06 CEST
+status 
+Date: Ven  6 avr 2012 17:40:19 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 17:40:19 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 17:40:19 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 17:40:19 CEST
+status 
+Date: Ven  6 avr 2012 18:21:21 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:21:21 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:21:21 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:21:21 CEST
+add application/edt/controllers/IndexController.php
+Date: Ven  6 avr 2012 18:21:29 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:21:29 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:21:29 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:21:29 CEST
+commit 
+Date: Ven  6 avr 2012 18:25:12 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:12 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:12 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:12 CEST
+checkout -b edt
+Date: Ven  6 avr 2012 18:25:25 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:25 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:25 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:25 CEST
+--git-dir=.git config --get alias.co
+Date: Ven  6 avr 2012 18:25:28 CEST
+checkout develop
+Date: Ven  6 avr 2012 18:25:28 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:28 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:28 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:28 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:31 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:31 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:31 CEST
+checkout Acl Aconnect.php Auth Checklist.php Controller Db Jobs Navigation.php Plugin TellMeMore.php Zend
+Date: Ven  6 avr 2012 18:25:35 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:35 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:35 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:35 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:37 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:37 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:37 CEST
+--git-dir=.git config --get alias.br
+Date: Ven  6 avr 2012 18:25:41 CEST
+branch -D master
+Date: Ven  6 avr 2012 18:25:41 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:41 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:41 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:41 CEST
+checkout -b master
+Date: Ven  6 avr 2012 18:25:47 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:47 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:47 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:48 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:51 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:52 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:52 CEST
+status 
+Date: Ven  6 avr 2012 18:25:53 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:53 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:53 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:53 CEST
+--git-dir=.git config --get alias.co
+Date: Ven  6 avr 2012 18:25:58 CEST
+checkout edt
+Date: Ven  6 avr 2012 18:25:59 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:25:59 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:25:59 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:25:59 CEST
+merge --no-ff develop
+Date: Ven  6 avr 2012 18:26:10 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:26:10 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:26:10 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:26:10 CEST
+--git-dir=.git config --get alias.co
+Date: Ven  6 avr 2012 18:26:12 CEST
+checkout develop
+Date: Ven  6 avr 2012 18:26:13 CEST
+symbolic-ref HEAD
+Date: Ven  6 avr 2012 18:26:13 CEST
+rev-parse --is-inside-git-dir
+Date: Ven  6 avr 2012 18:26:13 CEST
+rev-parse --is-inside-work-tree
+Date: Ven  6 avr 2012 18:26:13 CEST
+merge --no-ff edt
+Date: Ven  6 avr 2012 18:26:19 CEST
