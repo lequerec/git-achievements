@@ -12988,3 +12988,357 @@ rev-parse --is-inside-work-tree
 Date: Mar 17 avr 2012 10:57:54 CEST
 commit --amend
 Date: Mar 17 avr 2012 10:58:35 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 10:58:43 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 10:58:43 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 10:58:43 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 10:59:01 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 10:59:01 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 10:59:01 CEST
+fetch
+Date: Mar 17 avr 2012 10:59:06 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 10:59:06 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 10:59:06 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 10:59:06 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 10:59:09 CEST
+checkout develop
+Date: Mar 17 avr 2012 10:59:09 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 10:59:09 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 10:59:09 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 10:59:09 CEST
+help -a
+Date: Mar 17 avr 2012 10:59:11 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get-regexp alias\..*
+Date: Mar 17 avr 2012 10:59:11 CEST
+rebase origin/develop
+Date: Mar 17 avr 2012 10:59:13 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 10:59:13 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 10:59:13 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 10:59:13 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 10:59:14 CEST
+checkout master
+Date: Mar 17 avr 2012 10:59:14 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 10:59:15 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 10:59:15 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 10:59:15 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get-regexp alias\..*
+Date: Mar 17 avr 2012 10:59:16 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get-regexp alias\..*
+Date: Mar 17 avr 2012 10:59:17 CEST
+rebase origin/master
+Date: Mar 17 avr 2012 10:59:20 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 10:59:20 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 10:59:20 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 10:59:20 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 10:59:38 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 10:59:38 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 10:59:38 CEST
+achievements
+Date: Mar 17 avr 2012 10:59:41 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 10:59:41 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 10:59:41 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 10:59:41 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:00:39 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:00:39 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:00:39 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:00:41 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:00:41 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:00:41 CEST
+achievements
+Date: Mar 17 avr 2012 11:01:05 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:01:05 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:01:05 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:01:05 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:01:08 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:01:08 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:01:08 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:01:11 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:01:11 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:01:11 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:01:18 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:01:18 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:01:19 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:01:20 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:01:20 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:01:20 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:02:20 CEST
+checkout develop
+Date: Mar 17 avr 2012 11:02:21 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:02:21 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:02:21 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:02:21 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:02:33 CEST
+checkout stage_validation
+Date: Mar 17 avr 2012 11:02:41 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:02:41 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:02:41 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:02:41 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get-regexp alias\..*
+Date: Mar 17 avr 2012 11:02:44 CEST
+rebase develop
+Date: Mar 17 avr 2012 11:02:48 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:02:48 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:02:48 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:02:48 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:02:50 CEST
+checkout develop
+Date: Mar 17 avr 2012 11:02:51 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:02:51 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:02:51 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:02:51 CEST
+merge --no-ff stage_validation
+Date: Mar 17 avr 2012 11:02:57 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:02:57 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:02:57 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:02:58 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:03:00 CEST
+checkout master
+Date: Mar 17 avr 2012 11:03:00 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:03:00 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:03:00 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:03:00 CEST
+merge --no-ff develop
+Date: Mar 17 avr 2012 11:03:09 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:03:09 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:03:09 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:03:09 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:03:13 CEST
+checkout develop
+Date: Mar 17 avr 2012 11:03:13 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:03:13 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:03:13 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:03:13 CEST
+merge master
+Date: Mar 17 avr 2012 11:03:20 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:03:20 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:03:20 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:03:20 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:03:36 CEST
+checkout develop
+Date: Mar 17 avr 2012 11:03:36 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:03:37 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:03:37 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:03:37 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.br
+Date: Mar 17 avr 2012 11:03:39 CEST
+branch -d stage_validation
+Date: Mar 17 avr 2012 11:03:40 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:03:40 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:03:40 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:03:40 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get-regexp remote\..*\.url
+Date: Mar 17 avr 2012 11:03:43 CEST
+push origin develop
+Date: Mar 17 avr 2012 11:03:49 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:03:49 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:03:49 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:03:49 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:03:49 CEST
+checkout master
+Date: Mar 17 avr 2012 11:03:49 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:03:49 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:03:49 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:03:49 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get-regexp remote\..*\.url
+Date: Mar 17 avr 2012 11:03:54 CEST
+push origin master
+Date: Mar 17 avr 2012 11:03:56 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:03:56 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:03:56 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:03:56 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.br
+Date: Mar 17 avr 2012 11:04:13 CEST
+branch -d sessions
+Date: Mar 17 avr 2012 11:04:14 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:04:14 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:04:14 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:04:14 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:04:20 CEST
+checkout absence
+Date: Mar 17 avr 2012 11:04:21 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:04:21 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:04:21 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:04:21 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:04:24 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get-regexp alias\..*
+Date: Mar 17 avr 2012 11:04:26 CEST
+rebase develop
+Date: Mar 17 avr 2012 11:04:28 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:04:28 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:04:28 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:04:28 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:04:45 CEST
+checkout master
+Date: Mar 17 avr 2012 11:04:45 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:04:45 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:04:45 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:04:45 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get-regexp alias\..*
+Date: Mar 17 avr 2012 11:04:48 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:06:02 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:06:02 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:06:02 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:06:20 CEST
+checkout absence
+Date: Mar 17 avr 2012 11:06:20 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:06:20 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:06:20 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:06:20 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:25:51 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:25:51 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:25:51 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:25:51 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:25:52 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:25:52 CEST
+--git-dir=/Users/killy/vagrant/intra/intra/.git config --get alias.co
+Date: Mar 17 avr 2012 11:25:52 CEST
+status 
+Date: Mar 17 avr 2012 11:40:20 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:40:20 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:40:20 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:40:20 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:40:23 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:40:23 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:40:23 CEST
+status 
+Date: Mar 17 avr 2012 11:40:27 CEST
+symbolic-ref HEAD
+Date: Mar 17 avr 2012 11:40:27 CEST
+rev-parse --is-inside-git-dir
+Date: Mar 17 avr 2012 11:40:27 CEST
+rev-parse --is-inside-work-tree
+Date: Mar 17 avr 2012 11:40:27 CEST
+add ../application/models/Reen/studentRow.php
+Date: Mar 17 avr 2012 11:40:35 CEST
