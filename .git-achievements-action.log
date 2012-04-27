@@ -15164,3 +15164,31 @@ Date: Ven 27 avr 2012 11:16:01 CEST
 Date: Ven 27 avr 2012 11:16:07 CEST
 submodule update
 Date: Ven 27 avr 2012 11:16:10 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:16:18 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:16:18 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:16:18 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:16:29 CEST
+checkout master
+Date: Ven 27 avr 2012 11:16:29 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:16:29 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:16:29 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:16:29 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:16:32 CEST
+checkout develop
+Date: Ven 27 avr 2012 11:16:33 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:16:33 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:16:33 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:16:33 CEST
+merge --no-ff develop
+Date: Ven 27 avr 2012 11:16:41 CEST
