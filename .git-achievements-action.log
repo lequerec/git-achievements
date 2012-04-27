@@ -15192,3 +15192,141 @@ rev-parse --is-inside-work-tree
 Date: Ven 27 avr 2012 11:16:33 CEST
 merge --no-ff develop
 Date: Ven 27 avr 2012 11:16:41 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:16:46 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:16:46 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:16:46 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:16:46 CEST
+checkout master
+Date: Ven 27 avr 2012 11:16:50 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:16:50 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:16:50 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:16:51 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:16:58 CEST
+checkout develop
+Date: Ven 27 avr 2012 11:16:58 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:16:59 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:16:59 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:16:59 CEST
+merge --no-ff master
+Date: Ven 27 avr 2012 11:17:05 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:17:05 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:17:05 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:17:05 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:17:32 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:17:33 CEST
+checkout correctotron
+Date: Ven 27 avr 2012 11:17:33 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:17:33 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:17:34 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:17:34 CEST
+merge --no-ff develop
+Date: Ven 27 avr 2012 11:17:42 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:17:42 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:17:42 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:17:42 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:17:47 CEST
+checkout develop
+Date: Ven 27 avr 2012 11:17:48 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:17:48 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:17:48 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:17:48 CEST
+merge --no-ff correctotron
+Date: Ven 27 avr 2012 11:17:54 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:17:55 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:17:55 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:17:55 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:17:57 CEST
+checkout master
+Date: Ven 27 avr 2012 11:17:57 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:17:57 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:17:57 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:17:57 CEST
+merge --no-ff develop
+Date: Ven 27 avr 2012 11:18:02 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:18:02 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:18:02 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:18:02 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:18:05 CEST
+checkout develop
+Date: Ven 27 avr 2012 11:18:05 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:18:05 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:18:05 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:18:05 CEST
+merge master
+Date: Ven 27 avr 2012 11:18:08 CEST
+symbolic-ref HEAD
+Date: Ven 27 avr 2012 11:18:08 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:18:08 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:18:08 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:18:22 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:18:23 CEST
+checkout origin/develop
+Date: Ven 27 avr 2012 11:18:24 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:18:24 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:18:24 CEST
+--git-dir=.git config --get alias.br
+Date: Ven 27 avr 2012 11:18:28 CEST
+branch -D develop
+Date: Ven 27 avr 2012 11:18:29 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:18:29 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:18:29 CEST
+--git-dir=.git config --get alias.br
+Date: Ven 27 avr 2012 11:18:31 CEST
+branch -D master
+Date: Ven 27 avr 2012 11:18:31 CEST
+rev-parse --is-inside-git-dir
+Date: Ven 27 avr 2012 11:18:31 CEST
+rev-parse --is-inside-work-tree
+Date: Ven 27 avr 2012 11:18:31 CEST
+--git-dir=.git config --get alias.co
+Date: Ven 27 avr 2012 11:18:37 CEST
+checkout -b develop
+Date: Ven 27 avr 2012 11:18:37 CEST
