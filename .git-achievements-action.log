@@ -19998,3 +19998,413 @@ rev-parse --is-inside-work-tree
 Date: Lun 21 mai 2012 16:45:49 CEST
 commit --amend
 Date: Lun 21 mai 2012 16:46:55 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:47:20 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:47:20 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:47:20 CEST
+fetch
+Date: Lun 21 mai 2012 16:47:46 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:47:46 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:47:46 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:47:46 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:47:49 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:47:49 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:47:49 CEST
+fetch
+Date: Lun 21 mai 2012 16:48:11 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:48:11 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:48:11 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:48:11 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 16:48:17 CEST
+checkout develop
+Date: Lun 21 mai 2012 16:48:17 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:48:17 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:48:17 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:48:17 CEST
+help -a
+Date: Lun 21 mai 2012 16:48:20 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun 21 mai 2012 16:48:20 CEST
+rebase origin/develop
+Date: Lun 21 mai 2012 16:48:23 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:48:23 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:48:23 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:48:23 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 16:48:25 CEST
+checkout master
+Date: Lun 21 mai 2012 16:48:26 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:48:26 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:48:26 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:48:26 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun 21 mai 2012 16:48:30 CEST
+rebase origin/master
+Date: Lun 21 mai 2012 16:48:33 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:48:33 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:48:33 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:48:33 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:48:36 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:48:36 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:48:36 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:50:28 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:50:28 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:50:28 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 16:50:29 CEST
+checkout develop
+Date: Lun 21 mai 2012 16:50:29 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:50:29 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:50:29 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:50:29 CEST
+checkout -b informations
+Date: Lun 21 mai 2012 16:50:37 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:50:37 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:50:38 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:50:38 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:54:14 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:54:14 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:54:14 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:59:39 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:59:39 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:59:39 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 16:59:43 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 16:59:43 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 16:59:43 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:00:10 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:00:10 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:00:10 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:00:22 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:00:22 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:00:22 CEST
+status 
+Date: Lun 21 mai 2012 17:00:27 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:00:27 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:00:27 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:00:27 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:00:31 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:00:31 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:00:31 CEST
+fetch
+Date: Lun 21 mai 2012 17:00:36 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:00:36 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:00:36 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:00:36 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun 21 mai 2012 17:00:38 CEST
+rebase develop
+Date: Lun 21 mai 2012 17:00:42 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:00:42 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:00:42 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:00:42 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:00:51 CEST
+checkout develop
+Date: Lun 21 mai 2012 17:00:52 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:00:52 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:00:52 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:00:52 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:01:00 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:01:00 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:01:00 CEST
+merge --no-ff informations
+Date: Lun 21 mai 2012 17:01:08 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:01:08 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:01:08 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:01:08 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:01:10 CEST
+checkout master
+Date: Lun 21 mai 2012 17:01:11 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:01:11 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:01:11 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:01:11 CEST
+merge --no-ff develop
+Date: Lun 21 mai 2012 17:01:19 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:01:19 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:01:19 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:01:19 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:01:31 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:01:31 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:01:31 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:01:46 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:01:46 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:01:46 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:02:07 CEST
+checkout develop
+Date: Lun 21 mai 2012 17:02:08 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:02:08 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:02:08 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:02:08 CEST
+merge master
+Date: Lun 21 mai 2012 17:02:11 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:02:11 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:02:11 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:02:11 CEST
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Lun 21 mai 2012 17:02:29 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:02:31 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:02:31 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:02:31 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:03:24 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:03:25 CEST
+checkout origin/develop
+Date: Lun 21 mai 2012 17:03:26 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:03:26 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:03:26 CEST
+--git-dir=.git config --get alias.br
+Date: Lun 21 mai 2012 17:03:29 CEST
+branch -D develop
+Date: Lun 21 mai 2012 17:03:30 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:03:30 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:03:30 CEST
+branch -D master
+Date: Lun 21 mai 2012 17:03:34 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:03:34 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:03:34 CEST
+fetch
+Date: Lun 21 mai 2012 17:03:40 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:03:40 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:03:40 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:04:05 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:04:06 CEST
+checkout origin/develop
+Date: Lun 21 mai 2012 17:04:39 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:04:39 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:04:39 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:05:05 CEST
+checkout -b develop
+Date: Lun 21 mai 2012 17:05:05 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:05:05 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:05:05 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:05:05 CEST
+checkout -b master
+Date: Lun 21 mai 2012 17:05:09 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:05:09 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:05:09 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:05:09 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:05:21 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:05:22 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:05:22 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:05:23 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:05:23 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:05:24 CEST
+checkout informations
+Date: Lun 21 mai 2012 17:05:24 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:05:24 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:05:24 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:05:24 CEST
+--git-dir=.git config --get-regexp alias\..*
+Date: Lun 21 mai 2012 17:05:36 CEST
+rebase origin/develop
+Date: Lun 21 mai 2012 17:05:40 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:05:40 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:05:40 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:05:41 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:06:00 CEST
+checkout develop
+Date: Lun 21 mai 2012 17:06:01 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:06:01 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:06:01 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:06:01 CEST
+merge --no-ff informations
+Date: Lun 21 mai 2012 17:06:15 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:06:15 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:06:15 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:06:16 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:06:19 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:06:20 CEST
+checkout master
+Date: Lun 21 mai 2012 17:06:23 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:06:23 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:06:23 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:06:23 CEST
+merge --no-ff develop
+Date: Lun 21 mai 2012 17:06:33 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:06:33 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:06:34 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:06:34 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:06:36 CEST
+checkout develop
+Date: Lun 21 mai 2012 17:06:36 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:06:36 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:06:36 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:06:36 CEST
+merge master
+Date: Lun 21 mai 2012 17:06:39 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:06:39 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:06:39 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:06:39 CEST
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Lun 21 mai 2012 17:07:00 CEST
+push origin develop
+Date: Lun 21 mai 2012 17:07:03 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:07:03 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:07:03 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:07:03 CEST
+--git-dir=.git config --get alias.co
+Date: Lun 21 mai 2012 17:07:06 CEST
+checkout master
+Date: Lun 21 mai 2012 17:07:06 CEST
+symbolic-ref HEAD
+Date: Lun 21 mai 2012 17:07:06 CEST
+rev-parse --is-inside-git-dir
+Date: Lun 21 mai 2012 17:07:06 CEST
+rev-parse --is-inside-work-tree
+Date: Lun 21 mai 2012 17:07:06 CEST
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Lun 21 mai 2012 17:07:08 CEST
+push origin master
+Date: Lun 21 mai 2012 17:07:11 CEST
