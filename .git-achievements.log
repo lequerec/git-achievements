@@ -430,3 +430,11 @@
        Stash the changes in a dirty working directory away with git stash.       
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                           Master Collector (Level 7)                           
+       Fetches named heads or tags from another repository with git fetch       
+********************************************************************************
+
