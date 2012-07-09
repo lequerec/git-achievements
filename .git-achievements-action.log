@@ -37685,3 +37685,4263 @@ rev-parse --is-inside-work-tree
 Date: Tue Jun 26 15:03:58 CEST 2012
 commit -a
 Date: Tue Jun 26 15:05:00 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:05:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:05:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:05:11 CEST 2012
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Tue Jun 26 15:05:18 CEST 2012
+push origin master
+Date: Tue Jun 26 15:05:20 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:05:20 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:05:20 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:05:20 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:12:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:12:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:12:14 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:16:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:16:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:16:56 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:16:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:16:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:16:57 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:17:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:17:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:17:00 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:17:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:17:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:17:02 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:17:03 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:17:03 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:17:03 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:17:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:17:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:17:06 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:21:23 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:21:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:21:23 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:21:31 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:21:31 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:21:31 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 15:22:38 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 15:22:38 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 15:22:38 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 16:05:10 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 16:05:10 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 16:05:10 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 16:08:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 16:08:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 16:08:06 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 16:08:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 16:08:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 16:08:36 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 16:22:39 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 16:22:39 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 16:22:39 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 16:33:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 16:33:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 16:33:36 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 16:51:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 16:51:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 16:51:28 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 16:51:29 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 16:51:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 16:51:30 CEST 2012
+symbolic-ref HEAD
+Date: Tue Jun 26 17:38:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Tue Jun 26 17:38:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Tue Jun 26 17:38:54 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 09:50:29 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 09:50:29 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 09:50:30 CEST 2012
+my-up
+Date: Wed Jun 27 09:50:34 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 09:50:34 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 09:50:34 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 09:50:34 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 09:50:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 09:50:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 09:50:53 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 09:58:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 09:58:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 09:58:40 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:02:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:02:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:02:00 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:02:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:02:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:02:08 CEST 2012
+stash
+Date: Wed Jun 27 10:03:01 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:03:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:03:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:03:02 CEST 2012
+my-up
+Date: Wed Jun 27 10:03:05 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:03:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:03:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:03:05 CEST 2012
+stash pop
+Date: Wed Jun 27 10:03:09 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:03:09 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:03:09 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:03:09 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:09:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:09:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:09:57 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:10:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:10:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:10:00 CEST 2012
+status 
+Date: Wed Jun 27 10:11:00 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:11:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:11:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:11:01 CEST 2012
+checkout app/controllers/folders.php
+Date: Wed Jun 27 10:11:08 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:11:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:11:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:11:08 CEST 2012
+my-up
+Date: Wed Jun 27 10:11:10 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:11:10 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:11:10 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:11:10 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:15:25 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:15:25 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:15:25 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:15:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:15:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:15:26 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:15:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:15:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:15:54 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:15:55 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:15:55 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:15:55 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:15:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:15:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:15:56 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:16:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:16:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:16:01 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 10:16:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 10:16:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 10:16:01 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:15:22 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:15:22 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:15:22 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:15:22 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:15:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:15:23 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:15:44 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:15:44 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:15:44 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:15:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:15:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:15:45 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:16:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:16:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:16:08 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:16:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:16:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:16:14 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:16:23 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:16:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:16:23 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:16:38 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:16:38 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:16:38 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:16:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:16:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:16:54 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:17:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:17:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:17:07 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:17:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:17:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:17:13 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:17:17 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:17:17 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:17:17 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:17:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:17:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:17:26 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:17:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:17:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:17:40 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:17:48 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:17:48 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:17:48 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:17:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:17:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:17:54 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:18:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:18:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:18:01 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:18:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:18:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:18:11 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:18:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:18:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:18:28 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:18:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:18:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:18:37 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:18:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:18:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:18:46 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:19:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:19:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:19:00 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:19:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:19:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:19:15 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:19:17 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:19:17 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:19:17 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:20:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:20:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:20:00 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:20:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:20:42 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:20:42 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:20:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:20:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:20:49 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:21:03 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:21:03 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:21:03 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:21:09 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:21:09 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:21:09 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:21:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:21:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:21:11 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:21:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:21:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:21:14 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:21:24 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:21:24 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:21:24 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:21:32 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:21:32 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:21:32 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:22:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:22:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:22:00 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:22:10 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:22:10 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:22:10 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:22:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:22:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:22:14 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:22:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:22:18 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:22:18 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:22:35 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:22:35 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:22:35 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:23:25 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:23:25 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:23:25 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:38:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:38:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:38:53 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:38:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:38:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:38:59 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:39:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:39:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:39:40 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:40:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:40:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:40:07 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:40:50 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:40:50 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:40:50 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:41:23 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:41:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:41:23 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:44:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:44:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:44:11 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:44:33 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:44:33 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:44:33 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:46:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:46:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:46:01 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:49:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:49:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:49:07 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:49:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:49:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:49:07 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:49:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:49:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:49:07 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:49:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:49:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:49:08 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:49:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:49:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:49:08 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:49:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:49:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:49:40 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:50:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:50:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:50:15 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:57:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:57:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:57:12 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:58:55 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:58:55 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:58:55 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 11:59:55 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 11:59:55 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 11:59:55 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 12:01:15 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 12:01:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 12:01:15 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 12:04:20 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 12:04:20 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 12:04:20 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 12:04:23 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 12:04:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 12:04:23 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 12:18:58 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 12:18:58 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 12:18:59 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 12:52:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 12:52:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 12:52:56 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 13:11:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 13:11:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 13:11:26 CEST 2012
+symbolic-ref HEAD
+Date: symbolic-ref HEAD
+Date: Wed Jun 27 14:20:41 CEST 2012
+Wed Jun 27 14:20:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 14:20:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 14:20:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: rev-parse --is-inside-work-tree
+Date: Wed Jun 27 14:20:41 CEST 2012
+Wed Jun 27 14:20:41 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 14:25:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 14:25:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 14:25:11 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 14:43:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 14:43:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 14:43:40 CEST 2012
+my-up
+Date: Wed Jun 27 14:43:44 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 14:43:44 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 14:43:44 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 14:43:44 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 14:43:48 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 14:43:48 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 14:43:48 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Wed Jun 27 14:44:30 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Wed Jun 27 14:44:35 CEST 2012
+checkout harmonisage-le-retour-de-la-revanche
+Date: Wed Jun 27 14:44:41 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 14:44:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 14:44:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 14:44:41 CEST 2012
+my-up
+Date: Wed Jun 27 14:44:45 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 14:44:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 14:44:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 14:44:45 CEST 2012
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Wed Jun 27 14:44:55 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 14:44:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 14:44:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 14:44:57 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jun 27 16:30:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jun 27 16:30:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jun 27 16:30:37 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 10:42:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 10:42:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 10:42:46 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 10:44:09 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 10:44:09 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 10:44:09 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 10:48:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 10:48:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 10:48:59 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 10:49:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 10:49:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 10:49:02 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 10:49:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 10:49:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 10:49:08 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 10:49:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 10:49:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 10:49:14 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 14:42:51 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 14:42:51 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 14:42:51 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 14:43:33 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 14:43:33 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 14:43:33 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 14:44:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 14:44:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 14:44:46 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 14:44:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 14:44:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 14:44:49 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 14:48:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 14:48:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 14:48:28 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 14:48:38 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 14:48:38 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 14:48:38 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 14:49:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 14:49:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 14:49:54 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 14:57:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 14:57:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 14:57:43 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 15:39:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 15:39:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 15:39:56 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 15:47:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 15:47:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 15:47:37 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 15:50:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 15:50:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 15:50:49 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 15:54:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 15:54:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 15:54:21 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:01:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:01:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:01:40 CEST 2012
+submodule update --init
+Date: Thu Jun 28 16:01:47 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:01:48 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:01:48 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:01:48 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:03:16 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:03:16 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:03:16 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:03:44 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:03:44 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:03:44 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:03:50 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:03:50 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:03:50 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:12:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:12:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:12:13 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:19:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:19:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:19:06 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:19:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:19:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:19:06 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:19:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:19:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:19:13 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:19:42 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:19:42 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:19:42 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:20:20 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:20:20 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:20:20 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:20:31 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:20:31 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:20:31 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:20:42 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:20:42 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:20:42 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:57:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:57:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:57:30 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:58:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:58:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:58:14 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:58:48 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:58:48 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:58:48 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:59:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:59:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:59:05 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 16:59:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 16:59:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 16:59:41 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:10:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:10:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:10:36 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:10:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:10:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:10:56 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:11:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:11:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:11:14 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:11:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:11:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:11:26 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:11:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:11:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:11:56 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:12:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:12:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:12:11 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:12:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:12:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:12:56 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:13:04 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:13:04 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:13:04 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:13:34 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:13:34 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:13:34 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:13:48 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:13:48 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:13:48 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:14:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:14:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:14:13 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:14:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:14:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:14:54 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:15:17 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:15:17 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:15:17 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:19:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:19:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:19:02 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:19:38 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:19:38 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:19:38 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:19:55 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:19:55 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:19:55 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:20:03 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:20:03 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:20:03 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:32:42 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:32:42 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:32:42 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:33:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:33:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:33:45 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:35:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:35:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:35:13 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:35:38 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:35:38 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:35:38 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:36:09 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:36:09 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:36:09 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:36:35 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:36:35 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:36:35 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:37:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:37:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:37:13 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 17:37:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 17:37:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 17:37:54 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 18:07:25 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 18:07:25 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 18:07:25 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jun 28 23:19:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jun 28 23:19:47 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jun 28 23:19:47 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:10:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:10:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:10:12 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:10:15 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:10:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:10:15 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:10:34 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:10:34 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:10:34 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:11:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:11:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:11:02 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:18:16 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:18:16 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:18:16 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:18:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:18:18 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:18:18 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:18:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:18:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:18:21 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:18:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:18:22 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:18:22 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:18:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:18:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:18:26 CEST 2012
+status 
+Date: Fri Jun 29 10:18:28 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:18:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:18:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:18:28 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:18:55 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:18:55 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:18:55 CEST 2012
+status 
+Date: Fri Jun 29 10:19:21 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:19:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:19:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:19:21 CEST 2012
+status 
+Date: Fri Jun 29 10:19:50 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:19:50 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:19:50 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:19:50 CEST 2012
+add ../others/push_informator.php
+Date: Fri Jun 29 10:20:00 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:20:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:20:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:20:01 CEST 2012
+checkout -b informator
+Date: Fri Jun 29 10:20:13 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:20:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:20:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:20:14 CEST 2012
+commit 
+Date: Fri Jun 29 10:20:31 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:20:32 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:20:32 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:20:32 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:20:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:20:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:20:37 CEST 2012
+--git-dir=/Users/killy/ETNA/bo-my-erp/.git config --get alias.co
+Date: Fri Jun 29 10:21:01 CEST 2012
+checkout develop
+Date: Fri Jun 29 10:21:01 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:21:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:21:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:21:01 CEST 2012
+checkout -b harmonie
+Date: Fri Jun 29 10:21:21 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:21:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:21:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:21:22 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:21:24 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:21:24 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:21:24 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:21:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:21:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:21:26 CEST 2012
+status 
+Date: Fri Jun 29 10:21:29 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:21:29 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:21:29 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:21:29 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:21:32 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:21:32 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:21:32 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:25:50 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:25:50 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:25:50 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:25:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:25:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:25:57 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:39:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:39:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:39:06 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:39:09 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:39:09 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:39:09 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:39:39 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:39:39 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:39:39 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:40:51 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:40:51 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:40:51 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:41:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:41:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:41:02 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:41:24 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:41:24 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:41:24 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:43:51 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:43:51 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:43:51 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:43:58 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:43:58 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:43:58 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:44:55 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:44:55 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:44:55 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:45:35 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:45:35 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:45:35 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:45:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:45:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:45:36 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:45:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:45:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:45:36 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:53:15 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:53:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:53:15 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:53:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:53:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:53:57 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:56:19 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:56:19 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:56:19 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 10:57:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 10:57:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 10:57:43 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:00:03 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:00:03 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:00:03 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:30:58 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:30:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:30:59 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:31:15 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:31:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:31:15 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:31:39 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:31:39 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:31:39 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:32:03 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:32:03 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:32:03 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:32:34 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:32:34 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:32:34 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:33:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:33:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:33:05 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:33:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:33:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:33:45 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:43:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:43:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:43:21 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:44:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:44:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:44:06 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:44:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:44:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:44:41 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:47:04 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:47:04 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:47:04 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:47:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:47:29 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:47:29 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:48:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:48:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:48:06 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:48:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:48:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:48:37 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 11:49:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 11:49:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 11:49:02 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 12:00:39 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 12:00:39 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 12:00:39 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 12:01:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 12:01:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 12:01:28 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jun 29 12:01:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jun 29 12:01:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jun 29 12:01:30 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 09:55:15 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 09:55:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 09:55:15 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 09:55:17 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 09:55:17 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 09:55:17 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 09:59:44 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 09:59:44 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 09:59:44 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:00:23 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:00:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:00:23 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:00:24 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:00:25 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:00:25 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:00:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:00:27 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:00:27 CEST 2012
+my-up
+Date: Wed Jul  4 10:00:39 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:00:39 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:00:39 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:00:39 CEST 2012
+status 
+Date: Wed Jul  4 10:00:44 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:00:44 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:00:44 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:00:44 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:00:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:00:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:00:45 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:03:25 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:03:25 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:03:25 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:05:38 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:05:38 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:05:38 CEST 2012
+stash
+Date: Wed Jul  4 10:05:44 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:05:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:05:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:05:45 CEST 2012
+my-up
+Date: Wed Jul  4 10:05:48 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:05:48 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:05:48 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:05:48 CEST 2012
+stash pop
+Date: Wed Jul  4 10:05:57 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:05:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:05:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:05:57 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:06:22 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:06:22 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:06:22 CEST 2012
+checkout -b temp
+Date: Wed Jul  4 10:08:58 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:08:58 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:08:58 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:08:58 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:09:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:09:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:09:01 CEST 2012
+commit -a
+Date: Wed Jul  4 10:09:15 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:09:15 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:09:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:09:15 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:09:19 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:09:19 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:09:19 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:13:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:13:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:13:49 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:15:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:15:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:15:54 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:16:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:16:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:16:46 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:17:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:17:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:17:26 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:22:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:22:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:22:12 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:22:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:22:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:22:26 CEST 2012
+status 
+Date: Wed Jul  4 10:22:34 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:22:34 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:22:34 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:22:34 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:23:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:23:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:23:30 CEST 2012
+status 
+Date: Wed Jul  4 10:27:09 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:27:09 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:27:09 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:27:09 CEST 2012
+stash
+Date: Wed Jul  4 10:27:13 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:27:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:27:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:27:13 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Wed Jul  4 10:27:20 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:27:20 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:27:20 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:27:20 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Wed Jul  4 10:27:27 CEST 2012
+checkout AUTH_mystere_et_boules_de_gommes
+Date: Wed Jul  4 10:27:28 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:27:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:27:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:27:28 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:27:31 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:27:31 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:27:32 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:30:39 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:30:39 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:30:39 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:30:42 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:30:42 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:30:42 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:30:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:30:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:30:54 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:31:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:31:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:31:00 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:32:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:32:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:32:12 CEST 2012
+status 
+Date: Wed Jul  4 10:34:08 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:34:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:34:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:34:08 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Wed Jul  4 10:34:15 CEST 2012
+checkout develop
+Date: Wed Jul  4 10:34:15 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:34:15 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:34:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:34:15 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Wed Jul  4 10:34:36 CEST 2012
+checkout utf-8
+Date: Wed Jul  4 10:34:37 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:34:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:34:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:34:37 CEST 2012
+stash pop
+Date: Wed Jul  4 10:34:43 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:34:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:34:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:34:43 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:35:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:35:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:35:37 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:35:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:35:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:35:56 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:36:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:36:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:36:40 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:36:52 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:36:52 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:36:52 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:37:20 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:37:20 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:37:20 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:37:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:37:55 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:37:55 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:38:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:38:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:38:07 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:39:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:39:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:39:13 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:40:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:40:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:40:07 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:40:55 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:40:55 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:40:56 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:41:31 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:41:31 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:41:31 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 10:50:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 10:50:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 10:50:40 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 11:02:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 11:02:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 11:02:08 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:46:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:46:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:46:14 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:53:33 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:53:33 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:53:33 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:53:42 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:53:42 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:53:42 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:53:51 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:53:51 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:53:51 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:54:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:54:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:54:01 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:54:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:54:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:54:11 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:54:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:54:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:54:12 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:54:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:54:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:54:22 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:54:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:54:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:54:36 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:54:39 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:54:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:54:40 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:54:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:54:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:54:59 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:55:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:55:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:55:49 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:56:16 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:56:16 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:56:16 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:56:19 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:56:19 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:56:19 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:56:42 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:56:42 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:56:42 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:56:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:56:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:56:45 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:56:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:56:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:56:56 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:57:16 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:57:16 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:57:16 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:57:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:57:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:57:30 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:57:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:57:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:57:43 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:57:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:57:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:57:49 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:58:15 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:58:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:58:15 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 14:58:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 14:58:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 14:58:30 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:24:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:24:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:24:57 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:25:19 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:25:19 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:25:19 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:29:51 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:29:51 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:29:51 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:30:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:30:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:30:02 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:44:23 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:44:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:44:23 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:46:22 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:46:22 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:46:22 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:46:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:46:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:46:54 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:47:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:48:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:48:00 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:48:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:48:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:48:08 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:49:38 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:49:38 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:49:38 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:54:52 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:54:52 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:54:52 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:55:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:55:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:55:02 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:55:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:55:18 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:55:18 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 15:56:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 15:56:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 15:56:59 CEST 2012
+status 
+Date: Wed Jul  4 16:21:05 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 16:21:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 16:21:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 16:21:05 CEST 2012
+add application/config.ini
+Date: Wed Jul  4 16:23:28 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 16:23:29 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 16:23:29 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 16:23:29 CEST 2012
+commit 
+Date: Wed Jul  4 16:48:21 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 16:48:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 16:48:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 16:48:21 CEST 2012
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Wed Jul  4 16:48:49 CEST 2012
+push origin utf-8
+Date: Wed Jul  4 16:48:51 CEST 2012
+symbolic-ref HEAD
+Date: Wed Jul  4 16:48:52 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Wed Jul  4 16:48:52 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Wed Jul  4 16:48:52 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 01:53:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 01:53:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 01:53:12 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:01:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:01:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:01:00 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:03:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:03:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:03:01 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:03:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:03:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:03:13 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:20:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:20:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:20:58 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:21:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:21:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:21:06 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:21:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:21:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:21:14 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:21:16 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:21:16 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:21:16 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:28:29 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:28:29 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:28:29 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:54:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:54:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:54:45 CEST 2012
+my-up
+Date: Thu Jul  5 09:55:26 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:55:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:55:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:55:27 CEST 2012
+stash
+Date: Thu Jul  5 09:55:30 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:55:31 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:55:31 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:55:31 CEST 2012
+my-up
+Date: Thu Jul  5 09:55:35 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:55:35 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:55:35 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:55:35 CEST 2012
+stash pop
+Date: Thu Jul  5 09:57:02 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 09:57:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 09:57:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 09:57:02 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 10:00:31 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 10:00:31 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 10:00:31 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 10:01:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 10:01:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 10:01:07 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 10:02:42 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 10:02:42 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 10:02:42 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 10:14:35 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 10:14:35 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 10:14:35 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 10:15:20 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 10:15:20 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 10:15:20 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 10:22:31 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 10:22:31 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 10:22:31 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 10:24:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 10:24:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 10:24:45 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 10:50:03 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 10:50:03 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 10:50:03 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 10:50:51 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 10:50:51 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 10:50:51 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:11:29 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:11:29 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:11:30 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:13:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:13:31 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:13:31 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:25:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:25:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:25:00 CEST 2012
+my-up
+Date: Thu Jul  5 11:25:05 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:25:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:25:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:25:05 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:43:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:43:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:43:53 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:44:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:44:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:44:37 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:45:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:45:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:45:05 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:45:09 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:45:09 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:45:09 CEST 2012
+fetch
+Date: Thu Jul  5 11:45:33 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:45:33 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:45:33 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:45:33 CEST 2012
+status 
+Date: Thu Jul  5 11:45:40 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:45:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:45:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:45:41 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:46:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:46:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:46:05 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:46:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:46:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:46:07 CEST 2012
+status 
+Date: Thu Jul  5 11:46:10 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:46:10 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:46:10 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:46:10 CEST 2012
+commit -a
+Date: Thu Jul  5 11:46:50 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:46:50 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:46:50 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:46:50 CEST 2012
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Thu Jul  5 11:46:54 CEST 2012
+push origin utf-8
+Date: Thu Jul  5 11:46:59 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:47:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:47:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:47:00 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:50:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:50:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:50:00 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:50:58 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:50:58 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:50:58 CEST 2012
+status 
+Date: Thu Jul  5 11:51:04 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:51:04 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:51:04 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:51:04 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:51:17 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:51:17 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:51:17 CEST 2012
+status 
+Date: Thu Jul  5 11:51:22 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:51:22 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:51:22 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:51:22 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:51:44 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:51:44 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:51:44 CEST 2012
+status 
+Date: Thu Jul  5 11:51:47 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:51:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:51:47 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:51:48 CEST 2012
+my-up
+Date: Thu Jul  5 11:58:24 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 11:58:24 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 11:58:24 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 11:58:24 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 13:33:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 13:33:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 13:33:11 CEST 2012
+my-up
+Date: Thu Jul  5 13:33:25 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 13:33:25 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 13:33:25 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 13:33:25 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 13:33:39 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 13:33:39 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 13:33:39 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 13:35:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 13:35:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 13:35:01 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 13:35:15 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 13:35:15 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 13:35:15 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 13:35:32 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 13:35:32 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 13:35:32 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 13:36:32 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 13:36:32 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 13:36:32 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 13:36:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 13:36:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 13:36:36 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 14:25:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 14:25:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 14:25:37 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 14:58:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 14:58:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 14:58:30 CEST 2012
+status 
+Date: Thu Jul  5 14:58:35 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 14:58:35 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 14:58:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 14:58:36 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Thu Jul  5 15:37:52 CEST 2012
+checkout develop
+Date: Thu Jul  5 15:37:52 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 15:37:52 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 15:37:52 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 15:37:53 CEST 2012
+my-up
+Date: Thu Jul  5 16:01:08 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:01:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:01:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:01:08 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Thu Jul  5 16:01:35 CEST 2012
+checkout utf-8
+Date: Thu Jul  5 16:01:36 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:01:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:01:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:01:36 CEST 2012
+help -a
+Date: Thu Jul  5 16:01:39 CEST 2012
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Jul  5 16:01:39 CEST 2012
+rebase utf-8
+Date: Thu Jul  5 16:01:44 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:01:44 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:01:44 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:01:44 CEST 2012
+stash
+Date: Thu Jul  5 16:01:57 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:01:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:01:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:01:57 CEST 2012
+rebase utf-8
+Date: Thu Jul  5 16:01:59 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:01:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:01:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:01:59 CEST 2012
+rebase origin/utf-8
+Date: Thu Jul  5 16:02:05 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:02:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:02:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:02:05 CEST 2012
+status 
+Date: Thu Jul  5 16:02:10 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:02:10 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:02:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:02:11 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:02:16 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:02:16 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:02:16 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:13:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:13:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:13:00 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:13:10 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:13:10 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:13:10 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:17:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:17:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:17:41 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:18:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:18:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:18:43 CEST 2012
+symbolic-ref HEAD
+Date: Thu Jul  5 16:36:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Thu Jul  5 16:36:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Thu Jul  5 16:36:40 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 09:49:04 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 09:49:04 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 09:49:04 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 09:50:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 09:50:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 09:50:21 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 09:50:34 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 09:50:34 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 09:50:34 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 09:50:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 09:50:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 09:50:45 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 09:50:50 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 09:50:50 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 09:50:50 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 09:50:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 09:50:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 09:50:54 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 09:50:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 09:50:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 09:50:59 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 09:52:58 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 09:52:58 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 09:52:58 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 09:57:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 09:57:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 09:57:28 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 09:58:24 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 09:58:24 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 09:58:24 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:05:04 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:05:04 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:05:04 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:05:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:05:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:05:12 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:10:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:10:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:10:59 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:11:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:11:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:11:53 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:16:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:16:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:16:00 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:16:48 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:16:48 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:16:48 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:26:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:26:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:26:40 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:26:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:26:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:26:41 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:26:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:26:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:26:46 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:26:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:26:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:26:53 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:27:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:27:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:27:13 CEST 2012
+status 
+Date: Fri Jul  6 10:27:26 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:27:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:27:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:27:26 CEST 2012
+stash
+Date: Fri Jul  6 10:27:36 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:27:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:27:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:27:36 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 10:27:39 CEST 2012
+checkout master
+Date: Fri Jul  6 10:27:39 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:27:39 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:27:39 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:27:39 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:27:44 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:27:44 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:27:44 CEST 2012
+status 
+Date: Fri Jul  6 10:27:49 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:27:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:27:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:27:49 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:27:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:27:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:27:53 CEST 2012
+status 
+Date: Fri Jul  6 10:27:59 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:27:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:27:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:27:59 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 10:28:05 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:28:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:28:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:28:05 CEST 2012
+checkout -- Vagrantfile
+Date: Fri Jul  6 10:28:07 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:28:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:28:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:28:08 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:28:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:28:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:28:14 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:28:32 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:28:32 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:28:32 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:29:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:29:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:29:53 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:34:23 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:34:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:34:23 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:40:17 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:40:17 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:40:17 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:40:27 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:40:27 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:40:27 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:40:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:40:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:40:46 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:41:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:41:18 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:41:18 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:41:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:41:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:41:46 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:42:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:42:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:42:59 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:43:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:43:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:43:21 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:43:38 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:43:38 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:43:38 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:43:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:43:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:43:41 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:44:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:44:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:44:43 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:44:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:44:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:44:45 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:45:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:45:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:45:37 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:45:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:45:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:45:46 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:45:55 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:45:55 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:45:55 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:46:04 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:46:04 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:46:04 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:46:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:46:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:46:56 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:47:23 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:47:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:47:23 CEST 2012
+status 
+Date: Fri Jul  6 10:47:58 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:47:58 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:47:58 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:47:58 CEST 2012
+checkout Vagrantfile
+Date: Fri Jul  6 10:48:12 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:48:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:48:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:48:12 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:48:19 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:48:19 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:48:19 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:48:24 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:48:24 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:48:24 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:48:25 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:48:25 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:48:25 CEST 2012
+status 
+Date: Fri Jul  6 10:48:28 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:48:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:48:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:48:28 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 10:48:45 CEST 2012
+checkout robin
+Date: Fri Jul  6 10:48:46 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:48:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:48:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:48:46 CEST 2012
+stash pop
+Date: Fri Jul  6 10:48:50 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:48:51 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:48:51 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:48:51 CEST 2012
+status 
+Date: Fri Jul  6 10:48:52 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:48:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:48:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:48:53 CEST 2012
+diff Vagrantfile
+Date: Fri Jul  6 10:48:59 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:48:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:48:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:48:59 CEST 2012
+status 
+Date: Fri Jul  6 10:49:30 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:49:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:49:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:49:30 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:50:29 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:50:29 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:50:29 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:50:31 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:50:31 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:50:31 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:55:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:55:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:55:28 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 10:58:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 10:58:03 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 10:58:03 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:00:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:00:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:00:01 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:07:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:07:47 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:07:47 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:11:10 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:11:10 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:11:10 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:25:04 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:25:04 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:25:04 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:28:25 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:28:25 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:28:25 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:28:44 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:28:44 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:28:44 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:28:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:28:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:28:49 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:30:55 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:30:55 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:30:55 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:31:24 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:31:24 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:31:24 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:31:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:31:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:31:30 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:31:33 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:31:33 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:31:33 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:31:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:31:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:31:37 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:31:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:31:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:31:58 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:32:25 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:32:25 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:32:25 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:32:29 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:32:29 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:32:30 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:33:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:33:19 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:33:19 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:34:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:34:03 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:34:03 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:34:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:34:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:34:05 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:41:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:41:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:41:43 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:41:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:41:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:41:54 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:42:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:42:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:42:06 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:42:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:42:21 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:42:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:42:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:42:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:42:21 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:43:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:43:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:43:56 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:44:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:44:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:44:12 CEST 2012
+stash
+Date: Fri Jul  6 11:44:21 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:44:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:44:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:44:21 CEST 2012
+stash drop
+Date: Fri Jul  6 11:44:26 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:44:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:44:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:44:26 CEST 2012
+my-up
+Date: Fri Jul  6 11:44:30 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:44:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:44:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:44:30 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:35 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:44:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:44:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:44:36 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:37 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:37 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:37 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:37 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:37 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:37 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:38 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:38 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:38 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:38 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:38 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:38 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Fri Jul  6 11:44:40 CEST 2012
+checkout master
+Date: Fri Jul  6 11:44:40 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:44:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:44:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:44:40 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:47:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:47:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:47:21 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:47:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:47:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:47:22 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:47:31 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:47:31 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:47:31 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:47:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:47:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:47:45 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:47:50 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:47:50 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:47:50 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:48:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:48:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:48:02 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:48:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:48:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:48:14 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:53:52 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:53:52 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:53:52 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:59:03 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:59:03 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:59:03 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 11:59:09 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 11:59:09 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 11:59:09 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:04:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:04:18 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:04:18 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:04:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:04:18 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:04:18 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:04:23 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:04:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:04:23 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:13:35 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:13:35 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:13:35 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:19:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:19:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:19:02 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:19:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:19:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:19:05 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:19:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:19:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:19:07 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:19:20 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:19:20 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:19:20 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:20:32 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:20:32 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:20:32 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:27:52 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:27:52 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:27:52 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:27:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:27:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:27:53 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:48:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:48:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:48:11 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:51:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:51:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:51:41 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 12:52:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 12:52:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 12:52:02 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 15:39:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 15:39:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 15:39:43 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 22:04:48 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 22:04:48 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 22:04:48 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 22:05:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 22:05:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 22:05:26 CEST 2012
+status 
+Date: Fri Jul  6 22:05:28 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 22:05:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 22:05:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 22:05:28 CEST 2012
+symbolic-ref HEAD
+Date: Fri Jul  6 22:05:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Fri Jul  6 22:05:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Fri Jul  6 22:05:40 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:02:50 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:02:50 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:02:50 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:45:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:45:11 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:45:11 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:45:40 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:45:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:45:40 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:49:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:49:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:49:12 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:51:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:51:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:51:02 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:51:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:51:18 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:51:18 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:51:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:51:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:51:46 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:51:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:51:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:51:57 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:52:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:52:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:52:56 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:53:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:53:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:53:21 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:54:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:54:47 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:54:47 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:56:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:56:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:56:49 CEST 2012
+symbolic-ref HEAD
+Date: Sat Jul  7 15:59:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Sat Jul  7 15:59:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Sat Jul  7 15:59:53 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 09:49:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 09:49:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 09:49:41 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 09:49:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 09:49:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 09:49:45 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 09:51:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 09:51:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 09:51:05 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 09:51:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 09:51:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 09:51:12 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 09:55:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 09:55:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 09:55:41 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 09:57:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 09:57:18 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 09:57:18 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 09:57:59 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 09:57:59 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 09:57:59 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:02:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:02:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:02:14 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:02:34 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:02:34 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:02:34 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:03:38 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:03:38 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:03:38 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:04:12 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:04:12 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:04:12 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:04:22 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:04:22 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:04:22 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:04:27 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:04:27 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:04:27 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:04:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:04:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:04:46 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:04:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:04:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:04:57 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:05:10 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:05:10 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:05:10 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:11:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:11:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:11:30 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:11:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:11:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:11:41 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:15:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:15:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:15:36 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:23:13 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:23:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:23:14 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:23:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:23:47 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:23:48 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:44:35 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:44:35 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:44:35 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:56:58 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:56:58 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:56:58 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 10:58:57 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 10:58:57 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 10:58:57 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:02:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:02:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:02:21 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:10:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:10:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:10:43 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:13:24 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:13:24 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:13:24 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:14:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:14:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:14:46 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:15:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:15:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:15:53 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:16:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:16:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:16:41 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:17:04 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:17:04 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:17:04 CEST 2012
+status 
+Date: Mon Jul  9 11:17:29 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:17:29 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:17:29 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:17:29 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Mon Jul  9 11:17:33 CEST 2012
+checkout Vagrantfile
+Date: Mon Jul  9 11:17:33 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:17:33 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:17:33 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:17:33 CEST 2012
+--git-dir=.git config --get alias.co
+Date: Mon Jul  9 11:17:36 CEST 2012
+checkout robin
+Date: Mon Jul  9 11:17:37 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:17:37 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:17:37 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:17:37 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:17:42 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:17:42 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:17:42 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:17:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:17:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:17:43 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:17:48 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:17:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:17:49 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:18:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:18:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:18:08 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:18:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:18:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:18:47 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:18:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:18:47 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:18:47 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:18:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:18:47 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:18:47 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:18:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:18:47 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:18:47 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:18:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:18:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:18:53 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:19:17 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:19:17 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:19:17 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:19:28 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:19:28 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:19:28 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:29:51 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:29:51 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:29:51 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:35:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:35:05 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:35:05 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:38:56 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:38:56 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:38:56 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:46:24 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:46:24 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:46:24 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:46:33 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:46:33 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:46:33 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:53:16 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:53:16 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:53:16 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:56:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:56:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:56:53 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:57:25 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:57:25 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:57:25 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:57:27 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:57:27 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:57:27 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 11:57:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 11:57:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 11:57:30 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 12:04:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 12:04:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 12:04:07 CEST 2012
+stash
+Date: Mon Jul  9 12:14:08 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 12:14:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 12:14:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 12:14:08 CEST 2012
+my-up
+Date: Mon Jul  9 12:14:14 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 12:14:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 12:14:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 12:14:14 CEST 2012
+status 
+Date: Mon Jul  9 14:49:38 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 14:49:38 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:49:38 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:49:38 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 14:49:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:49:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:49:46 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 14:49:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:49:47 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:49:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:49:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:49:49 CEST 2012
+status 
+Date: Mon Jul  9 14:49:52 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:49:52 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:49:52 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:49:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:49:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:50:04 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:50:04 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 14:50:07 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:50:07 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:50:08 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 14:50:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:50:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:50:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:50:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:50:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:50:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:50:43 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 14:50:47 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 14:50:47 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 14:50:47 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 15:58:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 15:58:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 15:58:49 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:01:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:01:18 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:01:18 CEST 2012
+stash
+Date: Mon Jul  9 17:01:22 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:01:23 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:01:23 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:01:23 CEST 2012
+stash pop
+Date: Mon Jul  9 17:01:33 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:01:33 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:01:33 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:01:33 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:36:09 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:36:10 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:36:10 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:36:20 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:36:20 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:36:20 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:36:33 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:36:33 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:36:33 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:42:41 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:42:41 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:42:42 CEST 2012
+status 
+Date: Mon Jul  9 17:42:49 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:42:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:42:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:42:49 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:42:54 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:42:54 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:42:54 CEST 2012
+status 
+Date: Mon Jul  9 17:42:57 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:42:58 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:42:58 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:42:58 CEST 2012
+stash
+Date: Mon Jul  9 17:43:01 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:43:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:43:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:43:01 CEST 2012
+my-up
+Date: Mon Jul  9 17:43:06 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:43:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:43:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:43:06 CEST 2012
+--git-dir=/Users/killy/ETNA/intra/.git/modules/htdocs/old_intra/forums config --get alias.co
+Date: Mon Jul  9 17:43:16 CEST 2012
+checkout utf8
+Date: Mon Jul  9 17:43:16 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:43:16 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:43:16 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:43:16 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:43:20 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:43:20 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:43:20 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:43:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:43:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:43:36 CEST 2012
+status 
+Date: Mon Jul  9 17:45:30 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:45:30 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:45:30 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:45:31 CEST 2012
+add Services.php
+Date: Mon Jul  9 17:45:41 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:45:42 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:45:42 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:45:42 CEST 2012
+commit 
+Date: Mon Jul  9 17:52:48 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:52:48 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:52:48 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:52:49 CEST 2012
+help -a
+Date: Mon Jul  9 17:53:11 CEST 2012
+--git-dir=/Users/killy/ETNA/intra/.git/modules/htdocs/old_intra/forums config --get-regexp alias\..*
+Date: Mon Jul  9 17:53:11 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:53:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:53:13 CEST 2012
+status 
+Date: Mon Jul  9 17:53:20 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:53:20 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:53:20 CEST 2012
+--git-dir=/Users/killy/ETNA/intra/.git/modules/htdocs/old_intra/forums config --get-regexp alias\..*
+Date: Mon Jul  9 17:54:05 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:54:08 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:54:08 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:54:13 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:54:13 CEST 2012
+add Services.php
+Date: Mon Jul  9 17:54:17 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:54:17 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:54:17 CEST 2012
+rebase --continue
+Date: Mon Jul  9 17:54:21 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:54:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:54:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:54:21 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:54:36 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:54:36 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:54:36 CEST 2012
+status 
+Date: Mon Jul  9 17:54:43 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:54:43 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:54:43 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:54:43 CEST 2012
+status 
+Date: Mon Jul  9 17:55:46 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:55:46 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:55:46 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:55:46 CEST 2012
+add Services.php
+Date: Mon Jul  9 17:55:51 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:55:51 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:55:51 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:55:51 CEST 2012
+commit 
+Date: Mon Jul  9 17:56:06 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:56:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:56:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:56:06 CEST 2012
+stash drop
+Date: Mon Jul  9 17:56:18 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:56:18 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:56:18 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:56:18 CEST 2012
+--git-dir=/Users/killy/ETNA/intra/.git/modules/htdocs/old_intra/forums config --get-regexp alias\..*
+Date: Mon Jul  9 17:56:30 CEST 2012
+rebase -i origin/master
+Date: Mon Jul  9 17:57:02 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:57:02 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:57:02 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:57:02 CEST 2012
+--git-dir=/Users/killy/ETNA/intra/.git/modules/htdocs/old_intra/forums config --get-regexp remote\..*\.url
+Date: Mon Jul  9 17:57:25 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:57:29 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:57:29 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:57:29 CEST 2012
+my-up
+Date: Mon Jul  9 17:57:39 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:57:39 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:57:40 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:57:40 CEST 2012
+push origin utf8 --force
+Date: Mon Jul  9 17:57:53 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:57:53 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:57:53 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:57:53 CEST 2012
+my-up
+Date: Mon Jul  9 17:59:09 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:59:09 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:59:09 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:59:09 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:59:16 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:59:16 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:59:16 CEST 2012
+status 
+Date: Mon Jul  9 17:59:45 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:59:45 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:59:45 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:59:45 CEST 2012
+add Checklist.php
+Date: Mon Jul  9 17:59:49 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 17:59:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 17:59:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 17:59:49 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 18:00:01 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 18:00:01 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 18:00:01 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 18:00:06 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 18:00:06 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 18:00:06 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 18:00:21 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 18:00:21 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 18:00:21 CEST 2012
+checkout -b utf-8
+Date: Mon Jul  9 18:00:26 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 18:00:26 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 18:00:26 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 18:00:27 CEST 2012
+commit 
+Date: Mon Jul  9 18:01:00 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 18:01:00 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 18:01:00 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 18:01:01 CEST 2012
+--git-dir=/Users/killy/ETNA/intra/.git/modules/library/ETNA config --get-regexp remote\..*\.url
+Date: Mon Jul  9 18:01:11 CEST 2012
+push origin utf-8
+Date: Mon Jul  9 18:01:14 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 18:01:14 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 18:01:14 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 18:01:14 CEST 2012
+help -a
+Date: Mon Jul  9 18:01:41 CEST 2012
+--git-dir=/Users/killy/ETNA/intra/.git/modules/library/ETNA config --get-regexp alias\..*
+Date: Mon Jul  9 18:01:41 CEST 2012
+--git-dir=/Users/killy/ETNA/intra/.git/modules/library/ETNA config --get-regexp alias\..*
+Date: Mon Jul  9 18:01:42 CEST 2012
+rebase origin/master
+Date: Mon Jul  9 18:01:44 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 18:01:44 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 18:01:44 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 18:01:44 CEST 2012
+--git-dir=/Users/killy/ETNA/intra/.git/modules/library/ETNA config --get-regexp remote\..*\.url
+Date: Mon Jul  9 18:01:47 CEST 2012
+symbolic-ref HEAD
+Date: Mon Jul  9 18:01:49 CEST 2012
+rev-parse --is-inside-git-dir
+Date: Mon Jul  9 18:01:49 CEST 2012
+rev-parse --is-inside-work-tree
+Date: Mon Jul  9 18:01:49 CEST 2012
+push origin utf-8 --force
+Date: Mon Jul  9 18:01:52 CEST 2012
